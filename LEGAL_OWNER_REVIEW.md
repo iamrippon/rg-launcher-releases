@@ -1,9 +1,9 @@
 # RG Launcher — Legal & Owner Review Checklist
 
-> **STATUS: PENDING OWNER APPROVAL & QUALIFIED LEGAL COUNSEL**  
+> **STATUS: OWNER-APPROVED TERMS (PENDING QUALIFIED LEGAL COUNSEL)**  
 > **Target Release**: RG Launcher v1.0.0  
 > **Repository**: [iamrippon/rg-launcher-releases](https://github.com/iamrippon/rg-launcher-releases)  
-> **Developer / Operator**: Ripon Ghosh (Operating personally as RG Studios in India)  
+> **Developer & Operator**: Ripon Ghosh (Operating personally as RG Studios in India)  
 > **Contact**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com) | [https://rg-studios.in/](https://rg-studios.in/)  
 
 ---
@@ -18,34 +18,31 @@ The following facts have been formally confirmed by the owner and incorporated i
   - Website: [https://rg-studios.in/](https://rg-studios.in/)
   - Email: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com)
   - Community Discord: [https://discord.gg/GFGCn2mMrE](https://discord.gg/GFGCn2mMrE)
-  - Private residential addresses and personal tax/government identification numbers are intentionally omitted from public documents to protect personal privacy.
+  - *Privacy Note*: Private residential addresses and personal tax/government identification numbers are intentionally omitted from public documents to protect personal privacy.
 
 ---
 
-## 2. Decisions Remaining for Owner Confirmation & Legal Review
+## 2. Confirmed Distribution Model (EULA Approval)
 
-The following specific points remain open for owner sign-off and professional legal counsel:
-
-### A. Approval of Proposed Freeware EULA Model
-- **Proposed Terms in [EULA.md](EULA.md)**:
-  - Grants users a free, revocable license for personal, non-commercial gaming and instance management.
-  - Prohibits unauthorized commercial resale, redistribution for a fee, and distributing repackaged or modified binaries containing unauthorized code.
-  - Retains all proprietary rights in RG Launcher's branding, logos, original code, and companion mod, while preserving third-party open-source rights.
-- **Action for Owner (Ripon Ghosh)**:
-  - Formally confirm whether you approve these freeware restrictions as your official distribution policy for RG Launcher binaries.
-
-### B. Jurisdiction & Dispute Resolution Under Indian Law
-- **Current Provision**:
-  - Identified as operated from India. Marked with a placeholder recommendation for review by a qualified Indian lawyer.
-- **Action for Legal Review**:
-  - Consult a qualified Indian advocate/attorney to:
-    1. Specify the appropriate city/state court jurisdiction within India (e.g. based on your location of operation);
-    2. Confirm compliance with the **Information Technology Act, 2000** and the **Digital Personal Data Protection Act, 2023 (DPDP)**;
-    3. Ensure the warranty disclaimers and limitation of liability caps comply with mandatory consumer protections under the **Consumer Protection Act, 2019**.
+- **Owner Approval Recorded**: **Ripon Ghosh has formally confirmed that RG Launcher’s proposed freeware EULA is his intended distribution model.**
+- **Approved Terms ([EULA.md](EULA.md))**:
+  - End users are granted a free, revocable license to install and run official binary copies of RG Launcher for **personal, non-commercial gaming** and local instance management.
+  - **Unauthorized commercial resale, distribution for a fee, and distribution of repackaged or modified binaries are strictly prohibited**, subject to governing third-party open-source licenses and applicable law.
+  - All proprietary rights in RG Launcher’s branding, logos, original code, and bundled companion mod are retained by Ripon Ghosh / RG Studios.
+  - Rights under underlying third-party open-source licenses (MIT, ISC, Apache 2.0) are fully preserved.
 
 ---
 
-## 3. Important Legal Notice
+## 3. Items Requiring Professional Legal Review
 
 > [!IMPORTANT]
-> The accompanying documents ([Terms of Service](TERMS_OF_SERVICE.md), [EULA](EULA.md), and [Privacy Policy](PRIVACY_POLICY.md)) are drafts prepared based on the verified technical behavior of RG Launcher. Publishing them provides transparency for end users, but **does not constitute formal legal advice or guarantee statutory immunity**. Have a qualified Indian legal professional review these documents before relying on them as binding legal contracts.
+> **No Lawyer Review Claimed**: An Indian lawyer or legal professional has **NOT** reviewed or approved these documents. 
+
+Before relying on these draft policies as final, legally binding contracts, **consultation with a qualified Indian advocate / legal professional** is recommended to address the following jurisdiction-specific legal questions:
+
+1. **City / State Court Jurisdiction**:
+   - Formally select and specify the appropriate city and state court jurisdiction within India (based on your operational base) for governing law and dispute resolution clauses in [TERMS_OF_SERVICE.md](TERMS_OF_SERVICE.md) and [EULA.md](EULA.md).
+2. **Indian Consumer Protection Compliance**:
+   - Review the warranty disclaimers and liability limitation caps to ensure they conform with non-waivable statutory consumer protections under the **Consumer Protection Act, 2019**.
+3. **Data Protection & IT Regulations**:
+   - Verify that data-handling, support ticketing, and security disclosures in [PRIVACY_POLICY.md](PRIVACY_POLICY.md) satisfy applicable Indian digital data privacy requirements under the **Information Technology Act, 2000** (including SPDI Rules) and the **Digital Personal Data Protection Act, 2023 (DPDP)**.

@@ -1,7 +1,7 @@
 # End User License Agreement (EULA)
 
-> **NOTICE — PROPOSED DRAFT REQUIRING EXPLICIT OWNER SIGN-OFF & QUALIFIED LEGAL COUNSEL**  
-> *This End User License Agreement is a proposed draft governing the installation and use of official binary distributions of RG Launcher. It outlines the proposed owner-selected freeware policy (personal, non-commercial use with redistribution and commercial resale restrictions). It has been prepared based on confirmed operator facts and is subject to explicit owner sign-off and review by a qualified legal professional (recommended: an Indian legal practitioner). See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*  
+> **NOTICE — OWNER-APPROVED DISTRIBUTION DRAFT (PENDING QUALIFIED LEGAL COUNSEL)**  
+> *This End User License Agreement reflects the official distribution model confirmed by Ripon Ghosh (personal, non-commercial gaming use with commercial resale and unauthorized redistribution restrictions). It has NOT been reviewed or approved by an Indian lawyer and remains subject to qualified legal review. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*  
 > **Effective Date**: October 20, 2026 (Draft)  
 > **Applies to**: RG Launcher v1.0.0 and subsequent official releases  
 > **Licensor**: Ripon Ghosh, operating personally as RG Studios (India)  
