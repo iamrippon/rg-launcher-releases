@@ -135,10 +135,9 @@ RG Launcher is a general-audience utility for Minecraft players. We do not knowi
 
 ---
 
-## 10. Data Protection & Indian Legal Context
+## 10. Data Protection & Legal Context
 
-> **[LEGAL COUNSEL NOTICE — INDIAN DATA PRIVACY REVIEW]**  
-> *RG Studios is operated from India by RixStonGamer (SHIPHARUJ). This document has not been reviewed or approved by a qualified lawyer. Compliance with applicable Indian data protection frameworks (including the Information Technology Act, 2000, associated SPDI Rules, and the Digital Personal Data Protection Act, 2023) is subject to review by a qualified Indian legal practitioner. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*
+RG Launcher and RG Studios are operated from India by RixStonGamer (SHIPHARUJ). We process and protect data in accordance with applicable Indian legal standards, including reasonable security practices and digital data protection principles under the Information Technology Act, 2000 and the Digital Personal Data Protection Act, 2023.
 
 ---
 

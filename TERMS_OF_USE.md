@@ -120,11 +120,9 @@ To the extent permitted by law, you agree to defend, indemnify, and hold harmles
 
 ## 12. Governing Law, Jurisdiction & Dispute Resolution
 
-> **[LEGAL COUNSEL NOTICE — INDIAN LAW REVIEW]**  
-> *RG Studios is operated from India by RixStonGamer (SHIPHARUJ). This document has not been reviewed or approved by a qualified lawyer. The specific city/state court jurisdiction and formal dispute procedures are subject to review by a qualified Indian advocate/lawyer, taking into account the Information Technology Act, 2000 and the Consumer Protection Act, 2019. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*
-
-1. **Informal Resolution First**: In the event of any controversy, claim, or dispute arising out of or relating to RG Launcher, you agree to first contact us at [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com) and attempt in good faith to resolve the matter informally before initiating formal legal proceedings.
-2. **Severability**: If any provision of these Terms is determined by a court of competent jurisdiction to be invalid, unlawful, or unenforceable, that provision will be severed or modified to the minimum extent necessary, and the remaining provisions will continue in full force and effect.
+1. **Governing Law**: RG Launcher is operated from India by RixStonGamer (SHIPHARUJ) under RG Studios. These Terms are governed by and construed in accordance with the laws of India, subject to any mandatory, non-waivable statutory consumer protections provided under your local jurisdiction.
+2. **Informal Resolution First**: In the event of any controversy, claim, or dispute arising out of or relating to RG Launcher, you agree to first contact us at [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com) and attempt in good faith to resolve the matter informally before initiating formal legal proceedings.
+3. **Severability**: If any provision of these Terms is determined by a court of competent jurisdiction to be invalid, unlawful, or unenforceable, that provision will be severed or modified to the minimum extent necessary, and the remaining provisions will continue in full force and effect.
 
 ---
 

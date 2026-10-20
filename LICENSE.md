@@ -71,8 +71,7 @@ UNDER NO CIRCUMSTANCES SHALL THE LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL
 
 ## 8. Governing Law & Jurisdiction
 
-> **[LEGAL COUNSEL NOTICE — INDIAN LAW REVIEW]**  
-> *This Agreement is issued from India by RixStonGamer (SHIPHARUJ). This document has not been reviewed or approved by a qualified lawyer. Formal dispute forums, governing law clauses, and statutory consumer considerations are subject to review by a qualified Indian legal practitioner. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*
+This Agreement is governed by and construed in accordance with the laws of India, without regard to conflict of law principles. Nothing in this Agreement excludes, restricts, or modifies any statutory consumer rights that cannot be excluded or limited under applicable law in your jurisdiction.
 
 ---
 

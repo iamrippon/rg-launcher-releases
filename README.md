@@ -136,7 +136,7 @@ Please review our user-facing legal and transparency documentation:
 - 🔒 [**Privacy Policy**](PRIVACY_POLICY.md) — Comprehensive, factual breakdown of local storage, DPAPI token encryption, support tickets, and external network communications.
 - 📦 [**Third-Party Software & Notices**](THIRD_PARTY_NOTICES.md) — Full inventory of open-source packages, bundled companion mod notice, and license texts (MIT, ISC, Apache 2.0).
 - 🏷️ [**Disclaimer & Third-Party Relationship Notice**](DISCLAIMER.md) — Formal disclaimers of non-affiliation regarding Minecraft, Mojang, Microsoft, Modrinth, CurseForge, and tunneling providers.
-- 📋 [**Owner Review & Legal Notice**](LEGAL_OWNER_REVIEW.md) — Summary of owner approval, project facts, and notice regarding professional legal counsel.
+- 📋 [**Owner Review & Approval Record**](LEGAL_OWNER_REVIEW.md) — Official owner review and approval record by RixStonGamer, project details, and legal notice.
 
 ---
 
