@@ -14,11 +14,11 @@ This repository is dedicated solely to distributing official releases, installer
 
 ## 📥 Download RG Launcher v1.0.0
 
-| Installer | Operating System | Architecture | SHA-256 Checksum |
-| :--- | :--- | :--- | :--- |
-| [**RG-Launcher-Setup-1.0.0.exe**](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.0.0/RG-Launcher-Setup-1.0.0.exe) | Windows 10 / 11 | x64 (64-bit) | `d689a14ddbe0d8e1d52509bd0bed22716bde810e1eda2b291d402c99bdc9b706` |
+| Installer | Operating System | Architecture | Size | SHA-256 Checksum |
+| :--- | :--- | :--- | :--- | :--- |
+| [**RG-Launcher-Setup-1.0.0.exe**](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.0.0/RG-Launcher-Setup-1.0.0.exe) | Windows 10 / 11 | x64 (64-bit) | 123.18 MB | `d689a14ddbe0d8e1d52509bd0bed22716bde810e1eda2b291d402c99bdc9b706` |
 
-*Additional release assets including update metadata ([`latest.yml`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.0.0/latest.yml)) and verify hashes ([`checksums.txt`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.0.0/checksums.txt)) are available on the [v1.0.0 Release Page](https://github.com/iamrippon/rg-launcher-releases/releases/tag/v1.0.0).*
+*Release assets including update metadata ([`latest.yml`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.0.0/latest.yml)) and verified hashes ([`checksums.txt`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.0.0/checksums.txt)) are available on the [v1.0.0 Release Page](https://github.com/iamrippon/rg-launcher-releases/releases/tag/v1.0.0).*
 
 ---
 
@@ -72,10 +72,25 @@ RG Launcher is a modern, lightweight, and high-performance Minecraft launcher bu
 
 ## 🔄 Updates & Maintenance
 
-RG Launcher includes built-in update verification connected to this repository:
+RG Launcher includes built-in update verification connected directly to this repository:
 - **Automatic Background Check**: The launcher checks for newer stable releases upon startup.
 - **Manual Check**: You can manually check for updates at any time by navigating to **Settings** ➡️ **Update Center** or clicking the version badge in **About**.
-- **Safe Installation**: If an update is downloaded, the launcher will prompt you to restart. Installation is safely blocked if Minecraft or any local server is actively running.
+- **Safe Installation**: If an update is downloaded, the launcher prompts you to restart. Installation is safely blocked if Minecraft or any local server is actively running.
+
+---
+
+## 🗑️ Uninstallation Instructions
+
+If you wish to uninstall RG Launcher:
+1. **Via Windows Settings**:
+   - Open **Windows Settings** ➡️ **Apps** ➡️ **Installed apps** (or **Add or remove programs**).
+   - Search for **RG Launcher**.
+   - Click the three dots `...` and select **Uninstall**.
+   - Follow the uninstallation wizard to remove the launcher application files and desktop shortcuts.
+2. **Optional Complete Data Removal**:
+   - The uninstaller removes the application binaries. If you also wish to permanently delete your saved launcher profiles, configurations, and downloaded cache, delete the following directory:
+     `%APPDATA%\RG Launcher` (press `Win + R`, paste `%APPDATA%\RG Launcher`, and delete the folder).
+   - Your Minecraft worlds and screenshots remain in `%APPDATA%\.minecraft` (or your chosen custom profile directory) unless manually deleted.
 
 ---
 
@@ -114,8 +129,8 @@ RG Launcher is developed and maintained by **RG Studios**.
 ## 📄 Legal & Documentation
 
 Please review our user-facing documentation and policies:
-- 📜 [**Terms of Use**](TERMS.md) — Scope, permitted use, intellectual property, third-party disclaimers, and liability terms. *(Draft)*
-- 🔒 [**Privacy Policy**](PRIVACY.md) — Transparent breakdown of local storage, authentication tokens, network calls, and data privacy. *(Draft)*
+- 📜 [**Terms of Use**](TERMS_OF_USE.md) — Scope, permitted use, intellectual property, third-party disclaimers, and liability terms. *(Draft)*
+- 🔒 [**Privacy Policy**](PRIVACY_POLICY.md) — Transparent breakdown of local storage, authentication tokens, network calls, and data privacy. *(Draft)*
 - ⚖️ [**Third-Party Notices**](THIRD_PARTY_NOTICES.md) — Open-source software attributions, licenses, and acknowledgments.
 - 📋 [**Software License**](LICENSE.md) — RG Launcher binary distribution license agreement. *(Draft)*
 
