@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/GFGCn2mMrE)
 [![Website](https://img.shields.io/badge/Website-rg--studios.in-00C49F)](https://rg-studios.in/)
 
-Welcome to the official public distribution repository for **RG Launcher**, developed by **RG Studios** (led by Ripon Ghosh).
+Welcome to the official public distribution repository for **RG Launcher**, developed and operated by **Ripon Ghosh** under the studio name **RG Studios** (an unregistered, personally operated studio/project in India).
 
 This repository is dedicated solely to distributing official releases, installers, update feeds, and user-facing documentation for RG Launcher. It does **not** contain the private application source code.
 
@@ -116,13 +116,13 @@ If you encounter an issue or game crash:
 
 ## 🤝 Community & Official Support
 
-RG Launcher is developed and maintained by **RG Studios**.
+RG Launcher is developed and operated by **Ripon Ghosh** under the studio name **RG Studios** in India.
 
 - 🌐 **Official Website**: [https://rg-studios.in/](https://rg-studios.in/)
 - 💬 **Discord Community**: [https://discord.gg/GFGCn2mMrE](https://discord.gg/GFGCn2mMrE)
 - ✉️ **Support Email**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com)
 
-*Note: RG Studios does not guarantee immediate response times. For community help, join our Discord server.*
+*Note: Technical assistance is offered on a voluntary, best-effort basis without guaranteed response times. For community help, join our Discord server.*
 
 ---
 
@@ -134,13 +134,13 @@ Please review our user-facing legal and transparency documentation:
 - 🔒 [**Privacy Policy**](PRIVACY_POLICY.md) — Comprehensive, factual breakdown of local storage, DPAPI token encryption, support tickets, and external network communications. *(Draft)*
 - 📦 [**Third-Party Software & Notices**](THIRD_PARTY_NOTICES.md) — Full inventory of open-source packages, bundled companion mod notice, and license texts (MIT, ISC, Apache 2.0).
 - 🏷️ [**Disclaimer & Third-Party Relationship Notice**](DISCLAIMER.md) — Formal disclaimers of non-affiliation regarding Minecraft, Mojang, Microsoft, Modrinth, CurseForge, and tunneling providers.
-- 📋 [**Owner Review Checklist**](LEGAL_OWNER_REVIEW.md) — Summary of open legal/business decisions for the project owner.
+- 📋 [**Owner Review Checklist**](LEGAL_OWNER_REVIEW.md) — Summary of open legal decisions and Indian legal review items for the project owner.
 
 ---
 
 ## ⚖️ Legal Disclaimers
 
 - **Minecraft**: **NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.** Minecraft is a registered trademark of **Mojang AB** and **Microsoft Corporation**.
-- **CurseForge**: CurseForge is a registered trademark of **Overwolf Ltd**. RG Studios is not affiliated with or endorsed by Overwolf Ltd.
-- **Modrinth**: Modrinth is a trademark of **Rinth, Inc**. RG Studios is not affiliated with or endorsed by Rinth, Inc.
+- **CurseForge**: CurseForge is a registered trademark of **Overwolf Ltd**. Neither Ripon Ghosh nor RG Studios is affiliated with or endorsed by Overwolf Ltd.
+- **Modrinth**: Modrinth is a trademark of **Rinth, Inc**. Neither Ripon Ghosh nor RG Studios is affiliated with or endorsed by Rinth, Inc.
 - All other trademarks, trade names, and service marks are the property of their respective owners.
