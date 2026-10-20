@@ -77,7 +77,7 @@ RG Launcher includes a voluntary **Support View** that allows users to report bu
    - Summary and detailed description;
    - Up to three (3) optional user-selected image attachments/screenshots (maximum 5 MB each);
    - Basic system diagnostic information: RG Launcher version and operating system platform (e.g. "Windows 10.0 (x64)").
-2. **Transmission & Destination**: Support payloads are transmitted over encrypted HTTPS directly to our Supabase Edge Function (`/functions/v1/submit-support-ticket`) for review by RixStonGamer / RG Studios.
+2. **Transmission & Destination**: Support payloads are transmitted over encrypted HTTPS directly to our Supabase Edge Function (`/functions/v1/submit-support`) for review by RixStonGamer / RG Studios.
 3. **User Control**: Submitting a ticket is entirely voluntary. You should never include passwords, financial data, or sensitive personal information in support submissions.
 
 ---
@@ -154,3 +154,9 @@ If you have questions, feedback, or concerns regarding your privacy or data prac
 - **Email**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com)
 - **Official Website**: [https://rg-studios.in/](https://rg-studios.in/)
 - **Community Discord**: [https://discord.gg/GFGCn2mMrE](https://discord.gg/GFGCn2mMrE)
+
+---
+
+## 13. Owner Review & Notice
+
+This Privacy Policy has been personally reviewed and approved by the developer and operator, **RixStonGamer (SHIPHARUJ)**, reflecting the actual privacy and data handling practices of RG Launcher v1.0.0. This document has not been reviewed or approved by a qualified lawyer and does not constitute formal legal advice.

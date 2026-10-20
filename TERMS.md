@@ -1,4 +1,4 @@
-# Terms of Service & Terms of Use
+# Terms of Service & Use
 
 > **Effective Date**: October 20, 2026  
 > **Applies to**: RG Launcher v1.0.0 and subsequent official releases  
@@ -13,7 +13,7 @@
 
 1. **Operator Identity**: **RG Launcher is a personal project developed by RixStonGamer (SHIPHARUJ) and released, managed, and maintained under RG Studios.** RG Studios is an **unregistered, personally operated studio and independent project based in India, owned and operated solely by RixStonGamer (SHIPHARUJ)** ("Developer", "Operator", "we", "us", "our"). RG Studios is not an incorporated company, Limited Liability Partnership (LLP), or separate corporate entity; all development, distribution, and project assets are managed directly by RixStonGamer as an individual developer. RG Studios serves as the personal creative and software studio through which RixStonGamer develops digital projects, tools, websites, and other digital resources (including products and services that may be offered or sold from time to time).
 2. **Scope of Agreement**: These Terms of Service ("Terms") govern your access to, installation of, and use of the **RG Launcher** desktop application, its official update distribution feeds, and accompanying documentation (collectively, the "Software").
-3. **Acceptance**: By downloading, installing, launching, or using RG Launcher, you ("User" or "you") agree to be bound by these Terms, the [End User License Agreement](EULA.md), and the [Privacy Policy](PRIVACY_POLICY.md). If you do not agree to these Terms, you must not download, install, or use the Software.
+3. **Acceptance**: By downloading, installing, launching, or using RG Launcher, you ("User" or "you") agree to be bound by these Terms, the [Software License & End User Agreement](LICENSE.md), and the [Privacy Policy](PRIVACY_POLICY.md). If you do not agree to these Terms, you must not download, install, or use the Software.
 4. **Minors**: If you are using RG Launcher on behalf of a minor child, you represent that you are their parent or legal guardian and accept full responsibility for their compliance with these Terms.
 
 ---
@@ -62,11 +62,22 @@ You agree that you will **not**, under any circumstances:
 
 ---
 
-## 5. Third-Party Services, Content & Non-Affiliation
+## 5. Third-Party Services, Content & Non-Affiliation Disclaimers
 
-1. **Independent Nature**: RG Launcher is an independent utility. **Neither RixStonGamer nor RG Studios is affiliated with, endorsed by, sponsored by, or associated with Mojang AB, Microsoft Corporation, Overwolf Ltd (CurseForge), or Rinth, Inc. (Modrinth).**
-2. **Third-Party Downloads**: Mods, texture packs, modpacks, server binaries, and external tools downloaded via RG Launcher originate from third-party authors and providers. We do not develop, inspect, review, or warrant the stability, performance, safety, or compatibility of third-party community modifications.
-3. **Third-Party Terms**: Your use of third-party platforms (e.g. Modrinth, CurseForge, Playit.gg, ngrok, Discord) is governed by their respective terms of service and privacy policies. You assume all risk associated with downloading and executing third-party code.
+1. **Minecraft, Mojang AB & Microsoft Corporation**:
+   - **NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.**
+   - **Minecraft** is a registered trademark of **Mojang AB** and **Microsoft Corporation**.
+   - Neither RixStonGamer nor RG Studios is affiliated with, endorsed by, supported by, or sponsored by Mojang AB, Microsoft Corporation, or any of their affiliates or subsidiaries.
+   - Any reference to "Minecraft", "Java Edition", "Mojang", or related game marks is made solely for descriptive and identification purposes under nominative fair use, indicating compatibility as an independent game management tool.
+2. **Modrinth (Rinth, Inc.) & CurseForge (Overwolf Ltd.)**:
+   - RG Launcher integrates with public APIs from **Modrinth** and **CurseForge** to allow users to search and download community modifications.
+   - Neither RixStonGamer nor RG Studios is affiliated with, endorsed by, or sponsored by Rinth, Inc. or Overwolf Ltd.
+3. **Mod Loaders (Fabric, Quilt, NeoForge, Forge)**:
+   - Mod loaders are independent community open-source projects. Metadata and libraries are fetched directly from their respective public repositories.
+4. **Port Tunneling Utilities (Playit.gg, ngrok)**:
+   - Tunneling tools are third-party networking services configured optionally by the user. RG Launcher acts solely as a local process launcher and does not operate or warrant their services.
+5. **Community Content Disclaimer**:
+   - Mods, resource packs, shaders, modpacks, skins, and server `.jar` files downloaded through RG Launcher are created by third-party community authors. We do not inspect, audit, or guarantee the stability, safety, or legal status of third-party content. You assume all responsibility and risk when installing and running community modifications.
 
 ---
 
@@ -134,8 +145,14 @@ We may update these Terms from time to time. When changes occur, the revised doc
 
 ## 14. Contact & Support Details
 
-For questions, inquiries, or notices regarding these Terms of Service, contact:
+For questions, inquiries, or notices regarding these Terms, contact:
 - **Developer & Operator**: RixStonGamer (SHIPHARUJ) / RG Studios
 - **Official Website**: [https://rg-studios.in/](https://rg-studios.in/)
 - **Email**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com)
 - **Community Discord**: [https://discord.gg/GFGCn2mMrE](https://discord.gg/GFGCn2mMrE)
+
+---
+
+## 15. Owner Review & Notice
+
+These Terms have been personally reviewed and approved by the developer and operator, **RixStonGamer (SHIPHARUJ)**, reflecting the operating principles and terms for RG Launcher v1.0.0. This document has not been reviewed or approved by a qualified lawyer and does not constitute formal legal advice.

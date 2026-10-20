@@ -34,7 +34,7 @@ The following components are incorporated into or bundled with RG Launcher binar
 ## 2. Bundled Companion Mod Notice
 
 - **`rg-companion.jar`**: This is a companion Fabric client mod authored by **RixStonGamer / RG Studios**. It provides in-game synchronization for the launcher's HUD overlays (such as real-time FPS display, keystroke visualizer, armor durability status, and coordinates).
-- **Licensing**: `rg-companion.jar` is distributed as part of RG Launcher under the [End User License Agreement](EULA.md).
+- **Licensing**: `rg-companion.jar` is distributed as part of RG Launcher under the [Software License & End User Agreement](LICENSE.md).
 
 ---
 

@@ -10,6 +10,9 @@ Welcome to the official public distribution repository for **RG Launcher**.
 
 **RG Launcher is a personal project developed by RixStonGamer and released, managed, and maintained under RG Studios** (an unregistered, personally operated studio/project in India).
 
+> [!NOTE]
+> **RG Launcher is an independent Minecraft launcher and is NOT an official Minecraft product. It is NOT approved by or associated with Mojang or Microsoft.**
+
 This repository is dedicated solely to distributing official releases, installers, update feeds, and user-facing documentation for RG Launcher. It does **not** contain the private application source code.
 
 ---
@@ -131,12 +134,10 @@ RG Launcher is developed by **RixStonGamer** and released, managed, and maintain
 ## 📄 Legal & Documentation Package
 
 Please review our user-facing legal and transparency documentation:
-- 📜 [**Terms of Service / Terms of Use**](TERMS_OF_SERVICE.md) — Acceptable use, user responsibilities, third-party services, updates, warranty disclaimers, and liability terms.
-- ⚖️ [**End User License Agreement (EULA)**](EULA.md) — Binary distribution license grant, permitted uses, restrictions, and intellectual property ownership.
-- 🔒 [**Privacy Policy**](PRIVACY_POLICY.md) — Comprehensive, factual breakdown of local storage, DPAPI token encryption, support tickets, and external network communications.
-- 📦 [**Third-Party Software & Notices**](THIRD_PARTY_NOTICES.md) — Full inventory of open-source packages, bundled companion mod notice, and license texts (MIT, ISC, Apache 2.0).
-- 🏷️ [**Disclaimer & Third-Party Relationship Notice**](DISCLAIMER.md) — Formal disclaimers of non-affiliation regarding Minecraft, Mojang, Microsoft, Modrinth, CurseForge, and tunneling providers.
-- 📋 [**Owner Review & Approval Record**](LEGAL_OWNER_REVIEW.md) — Official owner review and approval record by RixStonGamer, project details, and legal notice.
+- 📜 [**Terms of Service & Use**](TERMS.md) — Acceptable use rules, service conditions, non-affiliation disclaimers, warranty disclaimers, and limitation of liability.
+- ⚖️ [**Software License & End User Agreement**](LICENSE.md) — Freeware binary license grant, personal non-commercial gaming permissions, and reservation of rights.
+- 🔒 [**Privacy Policy**](PRIVACY_POLICY.md) — Factual breakdown of local storage, DPAPI token encryption, voluntary support tickets, zero telemetry, and network transparency.
+- 📦 [**Third-Party Software & Open-Source Notices**](THIRD_PARTY_NOTICES.md) — Full inventory of bundled open-source components and complete license texts (MIT, ISC, Apache 2.0).
 
 ---
 

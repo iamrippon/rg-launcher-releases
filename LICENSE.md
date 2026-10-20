@@ -1,4 +1,4 @@
-# End User License Agreement (EULA)
+# Software License & End User Agreement
 
 > **Effective Date**: October 20, 2026  
 > **Applies to**: RG Launcher v1.0.0 and subsequent official releases  
@@ -9,7 +9,7 @@
 
 ## 1. Grant of License
 
-Subject to your ongoing compliance with this Agreement and the [Terms of Service](TERMS_OF_SERVICE.md), **RixStonGamer (SHIPHARUJ)** ("Licensor"), operating personally under the studio name **RG Studios** (an unregistered, personally operated project in India), hereby grants you ("Licensee" or "you") a personal, limited, non-exclusive, non-transferable, revocable, and royalty-free license to:
+Subject to your ongoing compliance with this Agreement and the [Terms of Service](TERMS.md), **RixStonGamer (SHIPHARUJ)** ("Licensor"), operating personally under the studio name **RG Studios** (an unregistered, personally operated studio/project in India), hereby grants you ("Licensee" or "you") a personal, limited, non-exclusive, non-transferable, revocable, and royalty-free license to:
 1. Download and install official binary copies of the RG Launcher desktop application (the "Software") on personal computer devices that you own, lease, or lawfully control;
 2. Execute and run the Software solely for personal, non-commercial management, modding, and launching of legally acquired Minecraft: Java Edition game clients and local dedicated servers.
 
@@ -41,8 +41,8 @@ Except to the extent that such restrictions are expressly prohibited by applicab
 
 The Software is built using and bundles certain third-party open-source software libraries, runtimes, and frameworks (such as Electron, React, Vite, Tailwind CSS, Lucide icons, adm-zip, semver, and electron-updater). 
 
-1. **Independent Licenses**: Each open-source component is licensed under its own governing license terms (such as the MIT License and the ISC License), as fully set forth in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
-2. **No Conflict**: Nothing in this EULA restricts, limits, or alters your rights under, or grants you rights that supersede, the terms of any applicable open-source software license. To the extent required by the licenses governing open-source components, the terms of such licenses shall apply to those components in lieu of the terms of this EULA.
+1. **Independent Licenses**: Each open-source component is licensed under its own governing license terms (such as the MIT License, ISC License, and Apache License 2.0), as fully set forth in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+2. **No Conflict**: Nothing in this Agreement restricts, limits, or alters your rights under, or grants you rights that supersede, the terms of any applicable open-source software license. To the extent required by the licenses governing open-source components, the terms of such licenses shall apply to those components in lieu of the terms of this Agreement.
 
 ---
 
@@ -65,7 +65,7 @@ The Software is built using and bundles certain third-party open-source software
 
 THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY. THE LICENSOR EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 
-UNDER NO CIRCUMSTANCES SHALL THE LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF DATA, SAVE CORRUPTION, OR HARDWARE ISSUES) ARISING FROM THE INSTALLATION OR USE OF THE SOFTWARE. PLEASE REFER TO SECTIONS 8 AND 9 OF THE [TERMS OF SERVICE](TERMS_OF_SERVICE.md) FOR COMPLETE WARRANTY AND LIABILITY PROVISIONS, WHICH ARE INCORPORATED HEREIN BY REFERENCE.
+UNDER NO CIRCUMSTANCES SHALL THE LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF DATA, SAVE CORRUPTION, OR HARDWARE ISSUES) ARISING FROM THE INSTALLATION OR USE OF THE SOFTWARE. PLEASE REFER TO THE [TERMS OF SERVICE](TERMS.md) FOR COMPLETE WARRANTY AND LIABILITY PROVISIONS, WHICH ARE INCORPORATED HEREIN BY REFERENCE.
 
 ---
 
@@ -81,3 +81,10 @@ If you have questions regarding this Agreement or wish to inquire about permissi
 - **Developer / Licensor**: RixStonGamer (SHIPHARUJ) / RG Studios
 - **Email**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com)
 - **Website**: [https://rg-studios.in/](https://rg-studios.in/)
+- **Community Discord**: [https://discord.gg/GFGCn2mMrE](https://discord.gg/GFGCn2mMrE)
+
+---
+
+## 10. Owner Review & Notice
+
+This Agreement has been personally reviewed and approved by the developer and operator, **RixStonGamer (SHIPHARUJ)**, reflecting the intended freeware distribution and non-commercial gaming model for RG Launcher v1.0.0. This document has not been reviewed or approved by a qualified lawyer and does not constitute formal legal advice.
