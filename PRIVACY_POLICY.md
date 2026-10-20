@@ -1,7 +1,5 @@
 # Privacy Policy
 
-> **NOTICE — OWNER REVIEWED AND APPROVED**  
-> *Owner reviewed and approved. This Privacy Policy reflects the verified data handling, local storage, cryptographic practices, and network communications of the RG Launcher desktop application, and has been accepted by the project owner/operator, RixStonGamer (SHIPHARUJ). This document has not been reviewed or approved by a qualified lawyer. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*  
 > **Effective Date**: October 20, 2026  
 > **Applies to**: RG Launcher v1.0.0 and subsequent official releases  
 > **Developer & Data Operator**: RixStonGamer (SHIPHARUJ), operating personally as RG Studios (India)  

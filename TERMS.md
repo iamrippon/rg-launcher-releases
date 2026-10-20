@@ -1,7 +1,5 @@
 # Terms of Service & Terms of Use
 
-> **NOTICE — OWNER REVIEWED AND APPROVED**  
-> *Owner reviewed and approved. This document reflects the verified architectural, networking, and security behaviors of RG Launcher and has been accepted by the project owner/operator, RixStonGamer (SHIPHARUJ). This document has not been reviewed or approved by a qualified lawyer. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*  
 > **Effective Date**: October 20, 2026  
 > **Applies to**: RG Launcher v1.0.0 and subsequent official releases  
 > **Developer & Operator**: RixStonGamer (SHIPHARUJ), operating personally as RG Studios (India)  

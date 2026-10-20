@@ -1,7 +1,5 @@
 # End User License Agreement (EULA)
 
-> **NOTICE — OWNER REVIEWED AND APPROVED**  
-> *Owner reviewed and approved. This End User License Agreement reflects the official distribution model confirmed and approved by the project owner/operator, RixStonGamer (SHIPHARUJ) (personal, non-commercial gaming use with commercial resale and unauthorized redistribution restrictions). This document has not been reviewed or approved by a qualified lawyer. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*  
 > **Effective Date**: October 20, 2026  
 > **Applies to**: RG Launcher v1.0.0 and subsequent official releases  
 > **Licensor**: RixStonGamer (SHIPHARUJ), operating personally as RG Studios (India)  
