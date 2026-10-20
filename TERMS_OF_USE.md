@@ -1,10 +1,10 @@
 # Terms of Service & Terms of Use
 
-> **NOTICE — DRAFT DOCUMENT PENDING OWNER CONFIRMATION & QUALIFIED LEGAL COUNSEL**  
-> *This document is a draft Terms of Service / Terms of Use for the RG Launcher desktop application. It has been prepared based on verified architectural, networking, and security behaviors in the application codebase, and incorporates confirmed owner identity facts. It contains clearly labeled legal-review notices and must be formally reviewed and approved by a qualified legal professional (recommended: an Indian legal practitioner) before being treated as binding legal terms.*  
+> **NOTICE — DRAFT DOCUMENT PENDING QUALIFIED LEGAL COUNSEL**  
+> *This document is a draft Terms of Service / Terms of Use for the RG Launcher desktop application. It has been prepared based on verified architectural, networking, and security behaviors in the application codebase, and incorporates confirmed developer identity facts. It contains clearly labeled legal-review notices and must be formally reviewed and approved by a qualified legal professional (recommended: an Indian legal practitioner) before being treated as binding legal terms.*  
 > **Effective Date**: October 20, 2026 (Draft)  
 > **Applies to**: RG Launcher v1.0.0 and subsequent official releases  
-> **Developer & Operator**: Ripon Ghosh, operating personally as RG Studios (India)  
+> **Developer & Operator**: RixStonGamer (SHIPHARUJ), operating personally as RG Studios (India)  
 > **Official Website**: [https://rg-studios.in/](https://rg-studios.in/)  
 > **Contact Email**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com)  
 > **Community Discord**: [https://discord.gg/GFGCn2mMrE](https://discord.gg/GFGCn2mMrE)  
@@ -13,9 +13,9 @@
 
 ## 1. Acceptance of Terms & Operator Identity
 
-1. **Operator Identity**: **RG Studios** is an **unregistered, personally operated studio and independent project based in India, owned and operated solely by Ripon Ghosh** ("Developer", "Operator", "we", "us", "our"). RG Studios is not an incorporated company, Limited Liability Partnership (LLP), or separate corporate entity; all development, distribution, and project assets are managed directly by Ripon Ghosh as an individual developer. RG Studios serves as the personal creative and software studio through which Ripon Ghosh develops digital projects, tools, websites, and other digital resources.
+1. **Operator Identity**: **RG Launcher is a personal project developed by RixStonGamer (SHIPHARUJ) and released, managed, and maintained under RG Studios.** RG Studios is an **unregistered, personally operated studio and independent project based in India, owned and operated solely by RixStonGamer (SHIPHARUJ)** ("Developer", "Operator", "we", "us", "our"). RG Studios is not an incorporated company, Limited Liability Partnership (LLP), or separate corporate entity; all development, distribution, and project assets are managed directly by RixStonGamer as an individual developer. RG Studios serves as the personal creative and software studio through which RixStonGamer develops digital projects, tools, websites, and other digital resources (including products and services that may be offered or sold from time to time).
 2. **Scope of Agreement**: These Terms of Service ("Terms") govern your access to, installation of, and use of the **RG Launcher** desktop application, its official update distribution feeds, and accompanying documentation (collectively, the "Software").
-3. **Acceptance**: By downloading, installing, launching, or using RG Launcher, you ("User" or "you") signify that you have read, understood, and agree to be bound by these Terms, the [End User License Agreement](EULA.md), and the [Privacy Policy](PRIVACY_POLICY.md). If you do not agree to these Terms, you must not download, install, or use the Software.
+3. **Acceptance**: By downloading, installing, launching, or using RG Launcher, you ("User" or "you") agree to be bound by these Terms, the [End User License Agreement](EULA.md), and the [Privacy Policy](PRIVACY_POLICY.md). If you do not agree to these Terms, you must not download, install, or use the Software.
 4. **Minors**: If you are using RG Launcher on behalf of a minor child, you represent that you are their parent or legal guardian and accept full responsibility for their compliance with these Terms.
 
 ---
@@ -66,7 +66,7 @@ You agree that you will **not**, under any circumstances:
 
 ## 5. Third-Party Services, Content & Non-Affiliation
 
-1. **Independent Nature**: RG Launcher is an independent utility. **Neither Ripon Ghosh nor RG Studios is affiliated with, endorsed by, sponsored by, or associated with Mojang AB, Microsoft Corporation, Overwolf Ltd (CurseForge), or Rinth, Inc. (Modrinth).**
+1. **Independent Nature**: RG Launcher is an independent utility. **Neither RixStonGamer nor RG Studios is affiliated with, endorsed by, sponsored by, or associated with Mojang AB, Microsoft Corporation, Overwolf Ltd (CurseForge), or Rinth, Inc. (Modrinth).**
 2. **Third-Party Downloads**: Mods, texture packs, modpacks, server binaries, and external tools downloaded via RG Launcher originate from third-party authors and providers. We do not develop, inspect, review, or warrant the stability, performance, safety, or compatibility of third-party community modifications.
 3. **Third-Party Terms**: Your use of third-party platforms (e.g. Modrinth, CurseForge, Playit.gg, ngrok, Discord) is governed by their respective terms of service and privacy policies. You assume all risk associated with downloading and executing third-party code.
 
@@ -101,14 +101,14 @@ TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW:
 ## 9. Limitation of Liability
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW:
-1. **EXCLUSION OF CONSEQUENTIAL DAMAGES**: UNDER NO CIRCUMSTANCES SHALL RIPON GHOSH, RG STUDIOS, OR COMMUNITY CONTRIBUTORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING LOSS OF PROFITS, DATA CORRUPTION, LOSS OF MINECRAFT WORLDS OR SAVE FILES, SYSTEM INSTABILITY, OR HARDWARE ISSUES) ARISING OUT OF OR IN CONNECTION WITH YOUR USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+1. **EXCLUSION OF CONSEQUENTIAL DAMAGES**: UNDER NO CIRCUMSTANCES SHALL RIXSTONGAMER, RG STUDIOS, OR COMMUNITY CONTRIBUTORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING LOSS OF PROFITS, DATA CORRUPTION, LOSS OF MINECRAFT WORLDS OR SAVE FILES, SYSTEM INSTABILITY, OR HARDWARE ISSUES) ARISING OUT OF OR IN CONNECTION WITH YOUR USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 2. **MAXIMUM LIABILITY CAP**: TO THE EXTENT PERMITTED BY LAW, OUR TOTAL AGGREGATE LIABILITY ARISING FROM OR RELATING TO THESE TERMS OR THE SOFTWARE SHALL NOT EXCEED THE AMOUNT PAID BY YOU (IF ANY) SPECIFICALLY FOR RG LAUNCHER, OR TWENTY-FIVE UNITED STATES DOLLARS ($25.00 USD) / EQUIVALENT INDIAN RUPEES (INR), WHICHEVER IS LESS.
 
 ---
 
 ## 10. Indemnification
 
-To the extent permitted by law, you agree to defend, indemnify, and hold harmless Ripon Ghosh, RG Studios, and community contributors from and against any claims, liabilities, damages, judgments, awards, losses, costs, or expenses (including reasonable legal fees) arising out of or relating to your violation of these Terms, your misuse of third-party APIs, or your infringement of any third-party intellectual property rights.
+To the extent permitted by law, you agree to defend, indemnify, and hold harmless RixStonGamer, RG Studios, and community contributors from and against any claims, liabilities, damages, judgments, awards, losses, costs, or expenses (including reasonable legal fees) arising out of or relating to your violation of these Terms, your misuse of third-party APIs, or your infringement of any third-party intellectual property rights.
 
 ---
 
@@ -123,7 +123,7 @@ To the extent permitted by law, you agree to defend, indemnify, and hold harmles
 ## 12. Governing Law, Jurisdiction & Dispute Resolution
 
 > **[PENDING QUALIFIED LEGAL COUNSEL — INDIAN LAW REVIEW]**  
-> *RG Studios is operated from India by Ripon Ghosh. The specific city/state court jurisdiction and formal dispute procedures are subject to review by a qualified Indian advocate/lawyer, taking into account the Information Technology Act, 2000 and the Consumer Protection Act, 2019. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*
+> *RG Studios is operated from India by RixStonGamer (SHIPHARUJ). The specific city/state court jurisdiction and formal dispute procedures are subject to review by a qualified Indian advocate/lawyer, taking into account the Information Technology Act, 2000 and the Consumer Protection Act, 2019. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*
 
 1. **Informal Resolution First**: In the event of any controversy, claim, or dispute arising out of or relating to RG Launcher, you agree to first contact us at [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com) and attempt in good faith to resolve the matter informally before initiating formal legal proceedings.
 2. **Severability**: If any provision of these Terms is determined by a court of competent jurisdiction to be invalid, unlawful, or unenforceable, that provision will be severed or modified to the minimum extent necessary, and the remaining provisions will continue in full force and effect.
@@ -139,7 +139,7 @@ We may update these Terms from time to time. When changes occur, the revised doc
 ## 14. Contact & Support Details
 
 For questions, inquiries, or notices regarding these Terms of Service, contact:
-- **Developer & Operator**: Ripon Ghosh (RG Studios)
+- **Developer & Operator**: RixStonGamer (SHIPHARUJ) / RG Studios
 - **Official Website**: [https://rg-studios.in/](https://rg-studios.in/)
 - **Email**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com)
 - **Community Discord**: [https://discord.gg/GFGCn2mMrE](https://discord.gg/GFGCn2mMrE)

@@ -2,7 +2,7 @@
 
 This document details the third-party open-source libraries, packages, components, and tools bundled into or utilized by **RG Launcher**.
 
-**RG Launcher** is developed by **Ripon Ghosh**, operating personally under the studio name **RG Studios** in India. Sincere gratitude is extended to the open-source software community for the tools, libraries, and frameworks that make RG Launcher possible. Each third-party component is governed by its own copyright and licensing terms.
+**RG Launcher is a personal project developed by RixStonGamer and released, managed, and maintained under RG Studios in India.** Sincere gratitude is extended to the open-source software community for the tools, libraries, and frameworks that make RG Launcher possible. Each third-party component is governed by its own copyright and licensing terms.
 
 ---
 
@@ -33,7 +33,7 @@ The following components are incorporated into or bundled with RG Launcher binar
 
 ## 2. Bundled Companion Mod Notice
 
-- **`rg-companion.jar`**: This is a companion Fabric client mod authored by **Ripon Ghosh / RG Studios**. It provides in-game synchronization for the launcher's HUD overlays (such as real-time FPS display, keystroke visualizer, armor durability status, and coordinates).
+- **`rg-companion.jar`**: This is a companion Fabric client mod authored by **RixStonGamer / RG Studios**. It provides in-game synchronization for the launcher's HUD overlays (such as real-time FPS display, keystroke visualizer, armor durability status, and coordinates).
 - **Licensing**: `rg-companion.jar` is distributed as part of RG Launcher under the [End User License Agreement](EULA.md).
 
 ---
@@ -117,4 +117,4 @@ limitations under the License.
 - **Minecraft Forge**: Open-source project maintained by the **Minecraft Forge** team.
 - **Discord**: Trademark of **Discord Inc**.
 
-Ripon Ghosh and RG Studios assert no ownership over any third-party trademarks, logos, or brand names listed above.
+RixStonGamer and RG Studios assert no ownership over any third-party trademarks, logos, or brand names listed above.

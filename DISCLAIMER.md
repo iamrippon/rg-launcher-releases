@@ -1,10 +1,10 @@
 # Disclaimer & Third-Party Relationship Notice
 
 > **NOTICE — INFORMATIONAL DISCLOSURE & LEGAL DISCLAIMER**  
-> *This document provides formal legal disclaimers and explains the exact, independent relationship between RG Launcher (developed and operated personally by Ripon Ghosh under the unregistered studio name RG Studios in India) and third-party companies, trademarks, platforms, and services.*  
+> *This document provides formal legal disclaimers and explains the exact, independent relationship between RG Launcher (a personal project developed by RixStonGamer (SHIPHARUJ) and released under the unregistered studio name RG Studios in India) and third-party companies, trademarks, platforms, and services.*  
 > **Effective Date**: October 20, 2026 (Draft)  
 > **Applies to**: RG Launcher v1.0.0 and subsequent official releases  
-> **Developer & Operator**: Ripon Ghosh, operating personally as RG Studios (India)  
+> **Developer & Operator**: RixStonGamer (SHIPHARUJ), operating personally as RG Studios (India)  
 > **Contact**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com) | [https://rg-studios.in/](https://rg-studios.in/)  
 
 ---
@@ -14,28 +14,28 @@
 ### A. Minecraft, Mojang AB & Microsoft Corporation
 - **NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.**
 - **Minecraft** is a registered trademark of **Mojang AB** and **Microsoft Corporation**.
-- **Ripon Ghosh** and **RG Studios** are completely independent. RG Launcher is not developed by, endorsed by, affiliated with, supported by, or sponsored by Mojang AB, Microsoft Corporation, or any of their affiliates or subsidiaries.
+- **RixStonGamer** and **RG Studios** are completely independent. RG Launcher is not developed by, endorsed by, affiliated with, supported by, or sponsored by Mojang AB, Microsoft Corporation, or any of their affiliates or subsidiaries.
 - Any reference to "Minecraft", "Java Edition", "Mojang", or related game names, trademarks, and logos is made solely for descriptive and identification purposes under nominative fair use, to indicate compatibility of the Software as an independent utility for managing licensed game installations.
 
 ### B. Modrinth & Rinth, Inc.
 - **Modrinth** is an open-source platform operated by **Rinth, Inc**.
 - RG Launcher integrates with the public Modrinth REST API to allow users to search, browse, and download community mods, resource packs, and modpacks.
-- Neither Ripon Ghosh nor RG Studios is affiliated with, endorsed by, or sponsored by Rinth, Inc.
+- Neither RixStonGamer nor RG Studios is affiliated with, endorsed by, or sponsored by Rinth, Inc.
 
 ### C. CurseForge & Overwolf Ltd.
 - **CurseForge** is a registered trademark and service of **Overwolf Ltd**.
 - RG Launcher utilizes the CurseForge API to provide users with direct access to discover and install community modifications.
-- Neither Ripon Ghosh nor RG Studios is affiliated with, endorsed by, or sponsored by Overwolf Ltd.
+- Neither RixStonGamer nor RG Studios is affiliated with, endorsed by, or sponsored by Overwolf Ltd.
 
 ### D. Mod Loaders (Fabric, Quilt, NeoForge, Minecraft Forge)
 - **Fabric**, **Quilt**, **NeoForge**, and **Minecraft Forge** are independent, community-driven open-source projects.
 - RG Launcher downloads installer metadata and libraries directly from their respective public maven repositories.
-- Neither Ripon Ghosh nor RG Studios is affiliated with or endorsed by the development teams of these loaders.
+- Neither RixStonGamer nor RG Studios is affiliated with or endorsed by the development teams of these loaders.
 
 ### E. Port Tunneling Providers (Playit.gg, ngrok)
 - **Playit.gg** and **ngrok** are independent networking services.
 - If a user chooses to configure these tools within RG Launcher's Local Server Hub or multiplayer tools, the launcher acts solely as a local process launcher for the respective utility.
-- Neither Ripon Ghosh nor RG Studios operates, controls, or warrants the uptime, security, or privacy of these tunneling providers.
+- Neither RixStonGamer nor RG Studios operates, controls, or warrants the uptime, security, or privacy of these tunneling providers.
 
 ---
 
@@ -60,14 +60,14 @@
 
 ## 4. Limitation of Liability Summary
 
-To the maximum extent permitted by applicable law, Ripon Ghosh and RG Studios shall not be liable for any damages (including loss of data, lost Minecraft worlds, corrupted save files, or hardware malfunction) resulting from the use or inability to use RG Launcher or third-party modifications downloaded through it. For complete terms, please refer to our [Terms of Service](TERMS_OF_SERVICE.md).
+To the maximum extent permitted by applicable law, RixStonGamer and RG Studios shall not be liable for any damages (including loss of data, lost Minecraft worlds, corrupted save files, or hardware malfunction) resulting from the use or inability to use RG Launcher or third-party modifications downloaded through it. For complete terms, please refer to our [Terms of Service](TERMS_OF_SERVICE.md).
 
 ---
 
 ## 5. Contact Information
 
 If you have questions, feedback, or trademark concerns, please contact:
-- **Developer & Operator**: Ripon Ghosh (RG Studios)
+- **Developer & Operator**: RixStonGamer (SHIPHARUJ) / RG Studios
 - **Email**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com)
 - **Official Website**: [https://rg-studios.in/](https://rg-studios.in/)
 - **Community Discord**: [https://discord.gg/GFGCn2mMrE](https://discord.gg/GFGCn2mMrE)

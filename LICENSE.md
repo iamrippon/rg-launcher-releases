@@ -1,17 +1,17 @@
 # End User License Agreement (EULA)
 
 > **NOTICE — OWNER-APPROVED DISTRIBUTION DRAFT (PENDING QUALIFIED LEGAL COUNSEL)**  
-> *This End User License Agreement reflects the official distribution model confirmed by Ripon Ghosh (personal, non-commercial gaming use with commercial resale and unauthorized redistribution restrictions). It has NOT been reviewed or approved by an Indian lawyer and remains subject to qualified legal review. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*  
+> *This End User License Agreement reflects the official distribution model confirmed by the developer, RixStonGamer (SHIPHARUJ) (personal, non-commercial gaming use with commercial resale and unauthorized redistribution restrictions). It has NOT been reviewed or approved by an Indian lawyer and remains subject to qualified legal review. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*  
 > **Effective Date**: October 20, 2026 (Draft)  
 > **Applies to**: RG Launcher v1.0.0 and subsequent official releases  
-> **Licensor**: Ripon Ghosh, operating personally as RG Studios (India)  
+> **Licensor**: RixStonGamer (SHIPHARUJ), operating personally as RG Studios (India)  
 > **Contact**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com) | [https://rg-studios.in/](https://rg-studios.in/)  
 
 ---
 
 ## 1. Grant of License
 
-Subject to your ongoing compliance with this Agreement and the [Terms of Service](TERMS_OF_SERVICE.md), **Ripon Ghosh** ("Licensor"), operating personally under the studio name **RG Studios** (an unregistered, personally operated project in India), hereby grants you ("Licensee" or "you") a personal, limited, non-exclusive, non-transferable, revocable, and royalty-free license to:
+Subject to your ongoing compliance with this Agreement and the [Terms of Service](TERMS_OF_SERVICE.md), **RixStonGamer (SHIPHARUJ)** ("Licensor"), operating personally under the studio name **RG Studios** (an unregistered, personally operated project in India), hereby grants you ("Licensee" or "you") a personal, limited, non-exclusive, non-transferable, revocable, and royalty-free license to:
 1. Download and install official binary copies of the RG Launcher desktop application (the "Software") on personal computer devices that you own, lease, or lawfully control;
 2. Execute and run the Software solely for personal, non-commercial management, modding, and launching of legally acquired Minecraft: Java Edition game clients and local dedicated servers.
 
@@ -20,7 +20,7 @@ Subject to your ongoing compliance with this Agreement and the [Terms of Service
 ## 2. License Scope & Reservations
 
 1. **License, Not Sale**: The Software binaries are licensed to you, not sold. You acquire no ownership interest in the Software itself.
-2. **Reservation of Rights**: Ripon Ghosh reserves all rights, title, and interest in and to RG Launcher, its original source code, compiled binaries, branding, logos, trademarks, and user interface designs, except for those rights explicitly granted to you under this Agreement or governing open-source licenses.
+2. **Reservation of Rights**: RixStonGamer reserves all rights, title, and interest in and to RG Launcher, its original source code, compiled binaries, branding, logos, trademarks, and user interface designs, except for those rights explicitly granted to you under this Agreement or governing open-source licenses.
 3. **No Claim Over Third-Party Assets**: Licensor makes no claim of ownership over:
    - The Minecraft game, client JARs, assets, or trademarks, which remain the sole intellectual property of **Mojang AB** and **Microsoft Corporation**;
    - Third-party mod files, resource packs, shaders, or modpacks authored by community creators;
@@ -74,13 +74,13 @@ UNDER NO CIRCUMSTANCES SHALL THE LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL
 ## 8. Governing Law & Jurisdiction
 
 > **[PENDING QUALIFIED LEGAL COUNSEL — INDIAN LAW REVIEW]**  
-> *This Agreement is issued from India by Ripon Ghosh. Formal dispute forums, governing law clauses, and statutory consumer considerations are subject to review by a qualified Indian legal practitioner. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*
+> *This Agreement is issued from India by RixStonGamer (SHIPHARUJ). Formal dispute forums, governing law clauses, and statutory consumer considerations are subject to review by a qualified Indian legal practitioner. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*
 
 ---
 
 ## 9. Contact & Licensing Inquiries
 
 If you have questions regarding this Agreement or wish to inquire about permissions, contact:
-- **Developer / Licensor**: Ripon Ghosh (RG Studios)
+- **Developer / Licensor**: RixStonGamer (SHIPHARUJ) / RG Studios
 - **Email**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com)
 - **Website**: [https://rg-studios.in/](https://rg-studios.in/)

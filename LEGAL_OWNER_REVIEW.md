@@ -3,7 +3,7 @@
 > **STATUS: OWNER-APPROVED TERMS (PENDING QUALIFIED LEGAL COUNSEL)**  
 > **Target Release**: RG Launcher v1.0.0  
 > **Repository**: [iamrippon/rg-launcher-releases](https://github.com/iamrippon/rg-launcher-releases)  
-> **Developer & Operator**: Ripon Ghosh (Operating personally as RG Studios in India)  
+> **Developer & Operator**: RixStonGamer (SHIPHARUJ), operating personally as RG Studios in India  
 > **Contact**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com) | [https://rg-studios.in/](https://rg-studios.in/)  
 
 ---
@@ -11,9 +11,10 @@
 ## 1. Confirmed Project & Operator Facts
 
 The following facts have been formally confirmed by the owner and incorporated into the legal documentation:
+- **Project Identity**: RG Launcher is a personal project developed by **RixStonGamer (SHIPHARUJ)** and released, managed, and maintained under **RG Studios**.
 - **Operating Status**: RG Studios is an **unregistered, personally operated studio and project in India**.
 - **No Incorporation**: It is **not** a Private Limited Company, LLP, or other registered corporate entity. It does not possess a corporate registration number.
-- **Scope of Studio**: RG Studios is the personal studio of **Ripon Ghosh**, used to develop software, digital projects, and resources, including digital products and services that may be offered or sold (such as websites and other digital goods).
+- **Scope of Studio**: RG Studios is the personal studio of **RixStonGamer (SHIPHARUJ)**, used to develop software, digital projects, and resources, including digital products and services that may be offered or sold (such as websites and other digital goods).
 - **Public Contact Details**:
   - Website: [https://rg-studios.in/](https://rg-studios.in/)
   - Email: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com)
@@ -24,11 +25,11 @@ The following facts have been formally confirmed by the owner and incorporated i
 
 ## 2. Confirmed Distribution Model (EULA Approval)
 
-- **Owner Approval Recorded**: **Ripon Ghosh has formally confirmed that RG Launcher’s proposed freeware EULA is his intended distribution model.**
+- **Owner Approval Recorded**: **RixStonGamer (SHIPHARUJ) has formally confirmed that RG Launcher’s proposed freeware EULA is the intended distribution model.**
 - **Approved Terms ([EULA.md](EULA.md))**:
   - End users are granted a free, revocable license to install and run official binary copies of RG Launcher for **personal, non-commercial gaming** and local instance management.
   - **Unauthorized commercial resale, distribution for a fee, and distribution of repackaged or modified binaries are strictly prohibited**, subject to governing third-party open-source licenses and applicable law.
-  - All proprietary rights in RG Launcher’s branding, logos, original code, and bundled companion mod are retained by Ripon Ghosh / RG Studios.
+  - All proprietary rights in RG Launcher’s branding, logos, original code, and bundled companion mod are retained by RixStonGamer / RG Studios.
   - Rights under underlying third-party open-source licenses (MIT, ISC, Apache 2.0) are fully preserved.
 
 ---

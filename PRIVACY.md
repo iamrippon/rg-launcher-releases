@@ -1,10 +1,10 @@
 # Privacy Policy
 
-> **NOTICE — DRAFT DOCUMENT PENDING OWNER CONFIRMATION & QUALIFIED LEGAL COUNSEL**  
-> *This Privacy Policy is a comprehensive draft prepared specifically for the RG Launcher desktop application. It reflects the verified data handling, local storage, cryptographic practices, and network communications of the actual application codebase, and incorporates confirmed owner identity facts. It contains clearly labeled legal-review notices and must be reviewed, finalized, and approved by a qualified legal professional (recommended: an Indian legal practitioner) before being treated as final. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*  
+> **NOTICE — DRAFT DOCUMENT PENDING QUALIFIED LEGAL COUNSEL**  
+> *This Privacy Policy is a comprehensive draft prepared specifically for the RG Launcher desktop application. It reflects the verified data handling, local storage, cryptographic practices, and network communications of the actual application codebase, and incorporates confirmed developer identity facts. It contains clearly labeled legal-review notices and must be reviewed, finalized, and approved by a qualified legal professional (recommended: an Indian legal practitioner) before being treated as final. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*  
 > **Effective Date**: October 20, 2026 (Draft)  
 > **Applies to**: RG Launcher v1.0.0 and subsequent official releases  
-> **Developer & Data Operator**: Ripon Ghosh, operating personally as RG Studios (India)  
+> **Developer & Data Operator**: RixStonGamer (SHIPHARUJ), operating personally as RG Studios (India)  
 > **Official Website**: [https://rg-studios.in/](https://rg-studios.in/)  
 > **Contact Email**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com)  
 > **Community Discord**: [https://discord.gg/GFGCn2mMrE](https://discord.gg/GFGCn2mMrE)  
@@ -13,7 +13,7 @@
 
 ## 1. Introduction & Operator Identity
 
-1. **Operator Identity**: **RG Studios** is an **unregistered, personally operated studio and independent project in India, owned and operated solely by Ripon Ghosh** ("Developer", "Operator", "we", "us", "our"). RG Studios is not an incorporated company, Limited Liability Partnership (LLP), or separate legal entity; all operations and software development are conducted by Ripon Ghosh as an individual developer.
+1. **Operator Identity**: **RG Launcher is a personal project developed by RixStonGamer (SHIPHARUJ) and released, managed, and maintained under RG Studios.** RG Studios is an **unregistered, personally operated studio and independent project in India, owned and operated solely by RixStonGamer (SHIPHARUJ)** ("Developer", "Operator", "we", "us", "our"). RG Studios is not an incorporated company, Limited Liability Partnership (LLP), or separate legal entity; all operations and software development are conducted by RixStonGamer as an individual developer.
 2. **Privacy Philosophy**: RG Launcher (the "Software") is engineered with a privacy-focused, local-first architecture. We do not operate user-surveillance platforms, we do not sell or monetize personal data, and we do not bundle background user tracking or telemetry SDKs.
 3. **Purpose of this Policy**: This Privacy Policy explains in clear, plain language:
    - What information is created and stored locally on your personal computer;
@@ -58,7 +58,7 @@ To verify game ownership and launch Minecraft: Java Edition, RG Launcher connect
 
 ### C. Transmission Guarantee
 - Authentication tokens are transmitted **only** to official Microsoft and Mojang authentication endpoints (`login.live.com`, `user.auth.xboxlive.com`, `api.minecraftservices.com`) to refresh your session or verify game ownership.
-- **Authentication tokens are NEVER transmitted to Ripon Ghosh, RG Studios, third-party analytics services, or any unverified server.**
+- **Authentication tokens are NEVER transmitted to RixStonGamer, RG Studios, third-party analytics services, or any unverified server.**
 
 ---
 
@@ -79,7 +79,7 @@ RG Launcher includes a voluntary **Support View** that allows users to report bu
    - Summary and detailed description;
    - Up to three (3) optional user-selected image attachments/screenshots (maximum 5 MB each);
    - Basic system diagnostic information: RG Launcher version and operating system platform (e.g. "Windows 10.0 (x64)").
-2. **Transmission & Destination**: Support payloads are transmitted over encrypted HTTPS directly to our Supabase Edge Function (`/functions/v1/submit-support-ticket`) for review by Ripon Ghosh / RG Studios.
+2. **Transmission & Destination**: Support payloads are transmitted over encrypted HTTPS directly to our Supabase Edge Function (`/functions/v1/submit-support-ticket`) for review by RixStonGamer / RG Studios.
 3. **User Control**: Submitting a ticket is entirely voluntary. You should never include passwords, financial data, or sensitive personal information in support submissions.
 
 ---
@@ -140,7 +140,7 @@ RG Launcher is a general-audience utility for Minecraft players. We do not knowi
 ## 10. Data Protection & Indian Legal Context
 
 > **[PENDING QUALIFIED LEGAL COUNSEL — INDIAN DATA PRIVACY REVIEW]**  
-> *RG Studios is operated from India by Ripon Ghosh. Compliance with applicable Indian data protection frameworks (including the Information Technology Act, 2000, associated SPDI Rules, and the Digital Personal Data Protection Act, 2023) is subject to ongoing review by a qualified Indian legal practitioner. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*
+> *RG Studios is operated from India by RixStonGamer (SHIPHARUJ). Compliance with applicable Indian data protection frameworks (including the Information Technology Act, 2000, associated SPDI Rules, and the Digital Personal Data Protection Act, 2023) is subject to ongoing review by a qualified Indian legal practitioner. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*
 
 ---
 
@@ -153,7 +153,7 @@ We may update this Privacy Policy from time to time to reflect software enhancem
 ## 12. Privacy Contact Information
 
 If you have questions, feedback, or concerns regarding your privacy or data practices in RG Launcher, please contact:
-- **Developer & Operator**: Ripon Ghosh (RG Studios)
+- **Developer & Operator**: RixStonGamer (SHIPHARUJ) / RG Studios
 - **Email**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com)
 - **Official Website**: [https://rg-studios.in/](https://rg-studios.in/)
 - **Community Discord**: [https://discord.gg/GFGCn2mMrE](https://discord.gg/GFGCn2mMrE)
