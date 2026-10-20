@@ -126,19 +126,20 @@ RG Launcher is developed and maintained by **RG Studios**.
 
 ---
 
-## 📄 Legal & Documentation
+## 📄 Legal & Documentation Package
 
-Please review our user-facing documentation and policies:
-- 📜 [**Terms of Use**](TERMS_OF_USE.md) — Scope, permitted use, intellectual property, third-party disclaimers, and liability terms. *(Draft)*
-- 🔒 [**Privacy Policy**](PRIVACY_POLICY.md) — Transparent breakdown of local storage, authentication tokens, network calls, and data privacy. *(Draft)*
-- ⚖️ [**Third-Party Notices**](THIRD_PARTY_NOTICES.md) — Open-source software attributions, licenses, and acknowledgments.
-- 📋 [**Software License**](LICENSE.md) — RG Launcher binary distribution license agreement. *(Draft)*
+Please review our user-facing legal and transparency documentation:
+- 📜 [**Terms of Service / Terms of Use**](TERMS_OF_SERVICE.md) — Acceptable use, user responsibilities, third-party services, updates, warranty disclaimers, and liability terms. *(Draft)*
+- ⚖️ [**End User License Agreement (EULA)**](EULA.md) — Binary distribution license grant, permitted uses, restrictions, and intellectual property ownership. *(Proposed Draft)*
+- 🔒 [**Privacy Policy**](PRIVACY_POLICY.md) — Comprehensive, factual breakdown of local storage, DPAPI token encryption, support tickets, and external network communications. *(Draft)*
+- 📦 [**Third-Party Software & Notices**](THIRD_PARTY_NOTICES.md) — Full inventory of open-source packages, bundled companion mod notice, and license texts (MIT, ISC, Apache 2.0).
+- 🏷️ [**Disclaimer & Third-Party Relationship Notice**](DISCLAIMER.md) — Formal disclaimers of non-affiliation regarding Minecraft, Mojang, Microsoft, Modrinth, CurseForge, and tunneling providers.
 
 ---
 
 ## ⚖️ Legal Disclaimers
 
-- **Minecraft**: Minecraft is a registered trademark of **Mojang AB** and **Microsoft Corporation**. RG Launcher and RG Studios are **not** affiliated with, endorsed by, or sponsored by Mojang AB or Microsoft Corporation.
+- **Minecraft**: **NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.** Minecraft is a registered trademark of **Mojang AB** and **Microsoft Corporation**.
 - **CurseForge**: CurseForge is a registered trademark of **Overwolf Ltd**. RG Studios is not affiliated with or endorsed by Overwolf Ltd.
 - **Modrinth**: Modrinth is a trademark of **Rinth, Inc**. RG Studios is not affiliated with or endorsed by Rinth, Inc.
-- All other trademarks and copyrights are the property of their respective owners.
+- All other trademarks, trade names, and service marks are the property of their respective owners.

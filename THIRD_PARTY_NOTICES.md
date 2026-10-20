@@ -1,35 +1,48 @@
-# Third-Party Notices & Open-Source Attributions
+# Third-Party Software & Open-Source Notices
 
-This document acknowledges the third-party open-source libraries, packages, and components utilized in **RG Launcher**.
+This document details the third-party open-source libraries, packages, components, and tools bundled into or utilized by **RG Launcher**.
 
-RG Studios is grateful to the open-source community for making these tools and libraries available. Each component is subject to the terms of its respective license.
-
----
-
-## 1. Summary of Bundled Components & Licenses
-
-| Component | License | Author / Copyright Holder |
-| :--- | :--- | :--- |
-| **Electron** | MIT License | OpenJS Foundation and Electron contributors |
-| **React & React-DOM** | MIT License | Meta Platforms, Inc. and affiliates |
-| **Lucide React** | ISC License | Lucide Project Contributors |
-| **Tailwind CSS** | MIT License | Tailwind Labs, Inc. |
-| **electron-updater** | MIT License | Vladimir Krivosheev |
-| **builder-util-runtime** | MIT License | Vladimir Krivosheev |
-| **semver** | ISC License | GitHub, Inc. and npm, Inc. |
-| **adm-zip** | MIT License | Ihor Burlachenko and contributors |
-| **clsx** | MIT License | Luke Edwards |
-| **tailwind-merge** | MIT License | Dany Castillo |
-| **Vite** | MIT License | Yuxi (Evan) You and Vite contributors |
-| **esbuild** | MIT License | Evan Wallace |
+RG Studios extends sincere gratitude to the open-source software community for the tools, libraries, and frameworks that make RG Launcher possible. Each third-party component is governed by its own copyright and licensing terms.
 
 ---
 
-## 2. Full License Texts
+## 1. Inventory of Bundled Open-Source Components
 
-### The MIT License (MIT)
+The following components are incorporated into or bundled with RG Launcher binary distributions:
 
-Used by: *Electron, React, React-DOM, Tailwind CSS, electron-updater, builder-util-runtime, adm-zip, clsx, tailwind-merge, Vite, esbuild*
+| Component / Library | Version | License | Copyright Holder / Author |
+| :--- | :--- | :--- | :--- |
+| **Electron** | 44.9.0 | MIT License | OpenJS Foundation and Electron contributors |
+| **React** | 19.2.8 | MIT License | Meta Platforms, Inc. and affiliates |
+| **React-DOM** | 19.2.8 | MIT License | Meta Platforms, Inc. and affiliates |
+| **Lucide React** | 1.59.0 | ISC License | Lucide Project Contributors |
+| **Tailwind CSS** | 4.3.3 | MIT License | Tailwind Labs, Inc. |
+| **electron-updater** | 6.8.9 | MIT License | Vladimir Krivosheev |
+| **builder-util-runtime** | 9.3.8 | MIT License | Vladimir Krivosheev |
+| **semver** | 7.x | ISC License | GitHub, Inc., npm, Inc., and contributors |
+| **adm-zip** | 0.6.1 | MIT License | Ihor Burlachenko and contributors |
+| **clsx** | 2.1.1 | MIT License | Luke Edwards |
+| **tailwind-merge** | 3.7.0 | MIT License | Dany Castillo |
+| **tiny-typed-emitter** | 2.1.0 | MIT License | Scott Blandford |
+| **universalify** | 2.0.1 | MIT License | Ryan Zimmerman |
+| **argparse** | 2.0.1 | Python-2.0 / Apache-2.0 | Python Software Foundation & node-argparse contributors |
+| **Vite** *(Build-time)* | 8.3.x | MIT License | Yuxi (Evan) You and Vite contributors |
+| **esbuild** *(Build-time)* | 0.28.x | MIT License | Evan Wallace |
+
+---
+
+## 2. Bundled Companion Mod Notice
+
+- **`rg-companion.jar`**: This is a companion Fabric client mod authored by **RG Studios** (Lead Developer: Ripon Ghosh). It provides in-game synchronization for the launcher's HUD overlays (such as real-time FPS display, keystroke visualizer, armor durability status, and coordinates).
+- **Licensing**: `rg-companion.jar` is distributed as part of RG Launcher under the [End User License Agreement](EULA.md).
+
+---
+
+## 3. Full Text of Applicable Licenses
+
+### A. The MIT License (MIT)
+
+*Applies to: Electron, React, React-DOM, Tailwind CSS, electron-updater, builder-util-runtime, adm-zip, clsx, tailwind-merge, tiny-typed-emitter, universalify, Vite, esbuild*
 
 ```text
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -53,9 +66,9 @@ SOFTWARE.
 
 ---
 
-### The ISC License
+### B. The ISC License
 
-Used by: *Lucide React, semver*
+*Applies to: Lucide React, semver*
 
 ```text
 Permission to use, copy, modify, and/or distribute this software for any
@@ -73,13 +86,35 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 ---
 
-## 3. Trademarks & Disclaimers
+### C. The Apache License, Version 2.0 (Selected Excerpts)
 
-- **Minecraft**: Minecraft is a trademark of **Mojang AB** / **Microsoft Corporation**.
-- **CurseForge**: CurseForge is a trademark of **Overwolf Ltd**.
-- **Modrinth**: Modrinth is a trademark of **Rinth, Inc**.
-- **Fabric**: Fabric is an open-source project maintained by the FabricMC organization.
-- **Quilt**: Quilt is an open-source project maintained by the QuiltMC organization.
-- **NeoForge / Forge**: Maintained by the NeoForged and Minecraft Forge teams respectively.
+*Applies to: argparse and associated runtime dependencies*
 
-RG Studios makes no claim of ownership over any third-party trademarks, mod files, or external project assets.
+```text
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+
+---
+
+## 4. Trademark & Third-Party Brand Acknowledgments
+
+- **Minecraft**: Registered trademark of **Mojang AB** and **Microsoft Corporation**.
+- **CurseForge**: Trademark of **Overwolf Ltd**.
+- **Modrinth**: Trademark of **Rinth, Inc**.
+- **Fabric**: Open-source project maintained by the **FabricMC** organization.
+- **Quilt**: Open-source project maintained by the **QuiltMC** organization.
+- **NeoForge**: Open-source project maintained by the **NeoForged** team.
+- **Minecraft Forge**: Open-source project maintained by the **Minecraft Forge** team.
+- **Discord**: Trademark of **Discord Inc**.
+
+RG Studios asserts no ownership over any third-party trademarks, logos, or brand names listed above.

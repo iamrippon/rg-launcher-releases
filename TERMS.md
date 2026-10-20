@@ -1,108 +1,142 @@
-# Terms of Use
+# Terms of Service & Terms of Use
 
-> **NOTICE — DRAFT FOR INFORMATIONAL PURPOSES ONLY**  
-> *This document is a draft version of the RG Launcher Terms of Use prepared for software distribution. It is intended for informational transparency and must be formally reviewed and finalized by a qualified legal professional before being treated as binding legal terms in any specific jurisdiction.*  
+> **NOTICE — DRAFT DOCUMENT FOR QUALIFIED LEGAL REVIEW**  
+> *This document is a comprehensive draft Terms of Service / Terms of Use for RG Launcher. It has been prepared based on the verified architectural, networking, and functional behavior of the application. It is provided for informational purposes and public transparency, and must be reviewed, finalized, and approved by a qualified legal professional before being treated as binding legal terms in any jurisdiction.*  
 > **Effective Date**: October 20, 2026  
-> **Application Version**: 1.0.0 and subsequent releases  
+> **Applies to**: RG Launcher v1.0.0 and subsequent releases  
+> **Developer / Publisher**: RG Studios (Lead Developer: Ripon Ghosh)  
+> **Contact**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com) | [https://rg-studios.in/](https://rg-studios.in/)  
 
 ---
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, accessing, or using the **RG Launcher** desktop application (the "Software") distributed by **RG Studios** ("we", "us", "our", lead developer Ripon Ghosh), you ("User" or "you") agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not install or use the Software.
+These Terms of Service ("Terms") govern your access to, installation of, and use of the **RG Launcher** desktop application, its official update distribution feeds, and associated documentation (collectively, the "Software" or "Service"), created and maintained by **RG Studios** ("we", "us", "our").
 
-If you are using the Software on behalf of a minor, you represent and warrant that you are their parent or legal guardian and accept these Terms on their behalf.
+By downloading, installing, launching, or using RG Launcher, you ("User" or "you") signify that you have read, understood, and agree to be bound by these Terms and the accompanying [End User License Agreement](EULA.md) and [Privacy Policy](PRIVACY_POLICY.md). If you do not agree to these Terms, you must not download, install, or use the Software.
 
----
-
-## 2. Scope & Purpose of Software
-
-RG Launcher is an independent utility software designed to facilitate the installation, organization, profile management, mod and modpack retrieval, and launching of Minecraft: Java Edition game clients and local dedicated servers.
+If you are using RG Launcher on behalf of a minor child, you represent that you are their parent or legal guardian and accept full responsibility for their compliance with these Terms.
 
 ---
 
-## 3. Permitted Use & License Grant
+## 2. Description of the Software
 
-Subject to your continued compliance with these Terms, RG Studios grants you a personal, non-exclusive, non-transferable, revocable, and limited license to download, install, and execute the Software on compatible computers that you own or control, solely for your personal, non-commercial entertainment and gaming purposes.
-
----
-
-## 4. User Responsibilities & Account Security
-
-1. **Minecraft License Requirement**: RG Launcher does not sell, bundle, or bypass licenses for Minecraft. You must possess a genuine, paid license for Minecraft: Java Edition through an active Microsoft Account to use the game launching features.
-2. **Microsoft Account Credentials**: Authentication is conducted directly through official Microsoft identity endpoints. You are solely responsible for maintaining the confidentiality and security of your Microsoft Account credentials. RG Studios is not responsible for any unauthorized account activity resulting from compromised credentials.
-3. **User Content & Mods**: You are solely responsible for third-party mods, resource packs, shaders, server configurations, and game files that you choose to download, install, or run using the Software.
-
----
-
-## 5. Intellectual Property & Non-Affiliation
-
-1. **RG Launcher Rights**: All copyrights, trademarks, interface designs, logos, software branding, and original source code associated with RG Launcher are the proprietary property of RG Studios and its licensors.
-2. **Minecraft Trademark Notice**: **Minecraft** is a registered trademark of **Mojang AB** and **Microsoft Corporation**. RG Studios is not affiliated with, endorsed by, sponsored by, or associated in any way with Mojang AB, Microsoft Corporation, or their subsidiaries.
-3. **Mod Providers Notice**: **CurseForge** is a trademark of **Overwolf Ltd**. **Modrinth** is operated by **Rinth, Inc**. All mod, resource pack, and modpack titles, files, and metadata are the intellectual property of their respective creators. RG Studios makes no claim of ownership over third-party community content.
-4. **No Ownership of Third-Party Assets**: Nothing in these Terms shall be construed as granting you or RG Studios ownership rights in Minecraft assets, community mods, or third-party libraries.
+RG Launcher is an independent, non-commercial and commercial-free utility software engineered for personal computers. Its core features include:
+- Managing and launching Minecraft: Java Edition game clients;
+- Selecting and downloading official game version files, libraries, and assets directly from Mojang/Microsoft servers;
+- Installing and configuring community-developed mod loaders (including Fabric, Quilt, NeoForge, and Minecraft Forge);
+- Browsing, searching, downloading, and installing community mods, resource packs, shaders, and modpacks from third-party platforms (**Modrinth** and **CurseForge**);
+- Managing and operating local dedicated Minecraft server instances;
+- In-game HUD overlay integration via the bundled client companion mod (`rg-companion.jar`);
+- Optional local network discovery and port-tunneling utilities for cooperative multiplayer hosting;
+- Automatic and manual software update verification via our public GitHub releases repository.
 
 ---
 
-## 6. Prohibited Activities
+## 3. Microsoft Account & Game License Requirement
 
-You agree not to engage in any of the following prohibited behaviors:
-- **Malicious Tampering**: Distributing modified, Trojan-infected, or repackaged versions of RG Launcher to third parties.
-- **Service Abuse**: Abusing, spamming, overloading, or attempting denial-of-service attacks against third-party APIs (including Mojang, Microsoft, Modrinth, CurseForge, or GitHub).
-- **Circumvention**: Utilizing the Software or modifying its binaries to circumvent Microsoft digital rights management (DRM), authentication controls, or licensing restrictions.
-- **Unlawful Activity**: Using the Software to violate any local, national, or international law, regulation, or third-party rights.
+1. **Prerequisite Game License**: RG Launcher is **not** an alternative game distribution platform and does not sell or provide Minecraft licenses. To launch and play Minecraft: Java Edition, you must possess a genuine, paid license associated with an active Microsoft Account.
+2. **Official Authentication**: When signing into the launcher, authentication is conducted directly with official Microsoft and Xbox Live identity services.
+3. **Account Responsibility**: You are solely responsible for all actions conducted through your Microsoft Account, the confidentiality of your credentials, and compliance with the [Microsoft Services Agreement](https://www.microsoft.com/servicesagreement) and the [Minecraft End User License Agreement](https://www.minecraft.net/en-us/eula).
+4. **Temporary Offline Login Notice**: Offline / local username login is temporarily disabled in RG Launcher v1.0.0 for security hardening. A valid Microsoft sign-in is required to access game-launching capabilities.
 
 ---
 
-## 7. Software Updates & Availability
+## 4. Permitted Use & Acceptable Use Policy
 
-1. **Updates**: RG Studios may, from time to time, make available updates, patches, or bug fixes for the Software. The Software includes an automated update checking mechanism that queries the public GitHub distribution repository (`iamrippon/rg-launcher-releases`).
-2. **Modification & Discontinuation**: We reserve the right to modify, suspend, or discontinue any feature, service integration, or the Software itself, temporarily or permanently, with or without prior notice.
+You agree to use RG Launcher strictly in compliance with applicable laws, third-party terms, and this Acceptable Use Policy:
+
+### Permitted Uses:
+- Downloading and running licensed copies of Minecraft on personal computing devices;
+- Customizing your game instances with community mods, texture packs, and configuration settings;
+- Running local dedicated servers for personal or small-group cooperative gaming;
+- Reviewing diagnostic logs to troubleshoot crashes and configuration conflicts.
+
+### Prohibited Activities:
+You agree that you will **not**, under any circumstances:
+1. **Malicious Tampering & Distribution**: Modify, repackage, inject malicious code into, or distribute trojanized versions of the Software binaries;
+2. **API Abuse**: Engage in automated scraping, flood requests, denial-of-service attempts, or unauthorized access against any third-party APIs contacted by the launcher (including Mojang, Microsoft, Modrinth, CurseForge, Supabase, or GitHub);
+3. **Circumvention of Access Controls**: Use or modify the Software to bypass Microsoft digital rights management (DRM), authentication tokens, license checks, or game restrictions;
+4. **Harassment & Unlawful Conduct**: Use the Software, its support ticketing channels, or community servers to transmit hateful, harassing, infringing, or illegal material;
+5. **Multiplayer Cheating & Exploitation**: Use client features or modifications in multiplayer environments where such modifications are expressly prohibited by the server rules or administrators.
+
+---
+
+## 5. Third-Party Services, Content & Non-Affiliation
+
+1. **Independent Nature**: RG Launcher is an independent utility. **RG Studios is NOT affiliated with, endorsed by, sponsored by, or associated with Mojang AB, Microsoft Corporation, Overwolf Ltd (CurseForge), or Rinth, Inc. (Modrinth).**
+2. **Third-Party Downloads**: Mods, texture packs, modpacks, server binaries, and external tools downloaded via RG Launcher originate from third-party authors and providers. RG Studios does not develop, inspect, review, or guarantee the stability, performance, safety, or compatibility of third-party community modifications.
+3. **Third-Party Terms**: Your use of third-party platforms (e.g. Modrinth, CurseForge, Playit.gg, ngrok, Discord) is governed by their respective terms of service and privacy policies. You assume all risk associated with downloading and executing third-party code.
+
+---
+
+## 6. Software Updates, Availability & Modification
+
+1. **Update Mechanism**: RG Launcher incorporates an update-checking mechanism that queries the public GitHub distribution repository (`iamrippon/rg-launcher-releases`). Updates may introduce new features, resolve bugs, modify user interface components, or deprecate functionality.
+2. **Safety Guards**: Software update installation requires user approval and is guarded against executing while Minecraft or local server processes are running.
+3. **Availability**: RG Studios does not guarantee that RG Launcher, third-party API integrations, or public update feeds will be available at all times, uninterrupted, or indefinitely. We reserve the right to modify, suspend, or discontinue any feature or the entire Software at any time without liability.
+
+---
+
+## 7. Support & Community Communication
+
+1. **User Support**: Technical assistance, troubleshooting, and bug reporting are offered on a voluntary, best-effort basis via our official website, community Discord, and email.
+2. **No SLA Guarantee**: RG Studios does not guarantee specific response times, bug-resolution schedules, or feature-request implementations.
+3. **Support Tickets**: When submitting bug reports or support tickets through the launcher, you agree to provide truthful descriptions and refrain from uploading unsolicited copyrighted material or sensitive personal credentials.
 
 ---
 
 ## 8. Disclaimer of Warranties
 
-TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW:
-1. THE SOFTWARE IS PROVIDED ON AN **"AS IS"** AND **"AS AVAILABLE"** BASIS, WITHOUT WARRANTIES, GUARANTEES, OR CONDITIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE.
-2. RG STUDIOS EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, AND NON-INFRINGEMENT.
-3. WE DO NOT WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED, ERROR-FREE, SECURE, FREE OF BUGS OR HARMFUL COMPONENTS, COMPATIBLE WITH ALL HARDWARE OR MODS, OR THAT ANY DEFECTS WILL BE PROMPTLY CORRECTED.
-4. NOTHING IN THESE TERMS SHALL EXCLUDE OR LIMIT ANY MANDATORY STATUTORY CONSUMER RIGHTS THAT CANNOT LAWFULLY BE EXCLUDED UNDER APPLICABLE LAW.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW:
+1. **AS-IS BASIS**: RG LAUNCHER IS PROVIDED ON AN **"AS IS"** AND **"AS AVAILABLE"** BASIS, WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND.
+2. **DISCLAIMER**: RG STUDIOS EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, ACCURACY, AND NON-INFRINGEMENT.
+3. **NO OPERATIONAL GUARANTEE**: WE DO NOT WARRANT THAT THE SOFTWARE WILL OPERATE UNINTERRUPTED, BUG-FREE, SECURELY, OR COMPATIBLY WITH ALL COMBINATIONS OF HARDWARE, OPERATING SYSTEMS, GRAPHICS DRIVERS, MINECRAFT VERSIONS, OR THIRD-PARTY MODS.
+4. **CONSUMER RIGHTS**: SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN IMPLIED WARRANTIES OR LIMITATIONS ON STATUTORY CONSUMER RIGHTS. IN SUCH JURISDICTIONS, THE ABOVE EXCLUSIONS APPLY ONLY TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE MANDATORY LAW.
 
 ---
 
 ## 9. Limitation of Liability
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW:
-1. IN NO EVENT SHALL RG STUDIOS, ITS DEVELOPERS, CONTRIBUTORS, OR AFFILIATES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF DATA, CORRUPTION OF SAVE FILES OR WORLDS, LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER MALFUNCTION, OR ANY PECUNIARY LOSS) ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-2. IN NO EVENT SHALL THE TOTAL AGGREGATE LIABILITY OF RG STUDIOS ARISING OUT OF THESE TERMS EXCEED THE AMOUNT PAID BY YOU (IF ANY) TO RG STUDIOS FOR THE SOFTWARE, OR TWENTY-FIVE UNITED STATES DOLLARS ($25.00 USD), WHICHEVER IS LESS.
+1. **EXCLUSION OF CONSEQUENTIAL DAMAGES**: UNDER NO CIRCUMSTANCES SHALL RG STUDIOS, ITS DEVELOPERS, CONTRIBUTORS, OR VOLUNTEERS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING LOSS OF PROFITS, DATA CORRUPTION, LOSS OF MINECRAFT WORLDS OR SAVE FILES, SYSTEM INSTABILITY, OR HARDWARE CRASHES) ARISING OUT OF OR IN CONNECTION WITH YOUR USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+2. **MAXIMUM LIABILITY CAP**: TO THE EXTENT PERMITTED BY LAW, THE TOTAL AGGREGATE LIABILITY OF RG STUDIOS ARISING FROM OR RELATING TO THESE TERMS OR THE SOFTWARE SHALL NOT EXCEED THE AMOUNT PAID BY YOU (IF ANY) TO RG STUDIOS SPECIFICALLY FOR RG LAUNCHER, OR TWENTY-FIVE UNITED STATES DOLLARS ($25.00 USD), WHICHEVER IS LESS.
 
 ---
 
-## 10. Termination
+## 10. Indemnification
 
-These Terms remain effective until terminated. You may terminate these Terms at any time by uninstalling and deleting all copies of the Software in your possession. RG Studios may terminate or revoke your license to use the Software immediately without notice if you fail to comply with any provision of these Terms.
-
----
-
-## 11. Governing Law & Dispute Resolution
-
-> *[Jurisdiction Note: The specific governing jurisdiction and dispute resolution mechanisms for RG Studios are subject to formal legal determination and confirmation based on business registration and applicable consumer protection statutes.]*
-
-To the extent permissible by law, users agree to first attempt to resolve any dispute, claim, or controversy informally by contacting RG Studios prior to initiating formal proceedings.
+To the extent permitted by law, you agree to defend, indemnify, and hold harmless RG Studios, its lead developer Ripon Ghosh, and community contributors from and against any claims, liabilities, damages, judgments, awards, losses, costs, or expenses (including reasonable attorney's fees) arising out of or relating to your violation of these Terms, your misuse of third-party APIs, or your infringement of any third-party intellectual property rights.
 
 ---
 
-## 12. Changes to these Terms
+## 11. Termination
 
-We may revise these Terms from time to time. Any changes will be published in this public repository along with an updated effective date. Continued use of the Software after the effective date of revised Terms constitutes your acceptance of the updated terms.
+1. **By You**: You may terminate these Terms at any time by uninstalling RG Launcher and permanently removing all local files associated with it.
+2. **By RG Studios**: RG Studios reserves the right to terminate your license to use the Software and revoke access to public update services immediately and without notice if you materially breach any provision of these Terms.
+3. **Survival**: Sections 5, 8, 9, 10, 11, 12, and 14 shall survive any termination.
 
 ---
 
-## 13. Contact Information
+## 12. Governing Law & Dispute Resolution
 
-If you have questions, feedback, or concerns regarding these Terms, please contact us at:
-- **Developer / Studio**: RG Studios (Ripon Ghosh)
-- **Website**: [https://rg-studios.in/](https://rg-studios.in/)
+> *[Jurisdiction Placeholder: The governing jurisdiction, choice of law, and formal forum for disputes involving RG Studios are subject to formal confirmation based on registered business location and applicable local consumer protection mandates. Legal counsel must review this section prior to finalization.]*
+
+1. **Informal Resolution First**: In the event of any controversy, claim, or dispute arising out of or relating to RG Launcher, you agree to first contact RG Studios at [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com) and attempt in good faith to resolve the matter informally before seeking formal legal remedy.
+2. **Severability**: If any provision of these Terms is determined by a court of competent jurisdiction to be invalid, unlawful, or unenforceable, that provision will be severed or modified to the minimum extent necessary, and the remaining provisions will continue in full force and effect.
+
+---
+
+## 13. Modifications to Terms
+
+RG Studios may update these Terms from time to time. When changes occur, the revised document will be committed to the public `rg-launcher-releases` repository and the effective date will be updated. Continued use of RG Launcher after updated Terms are published constitutes your acceptance of the revised Terms.
+
+---
+
+## 14. Contact & Support Details
+
+For questions, inquiries, or notices regarding these Terms of Service, contact:
+- **Developer / Publisher**: RG Studios (Ripon Ghosh)
+- **Official Website**: [https://rg-studios.in/](https://rg-studios.in/)
 - **Email**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com)
 - **Community Discord**: [https://discord.gg/GFGCn2mMrE](https://discord.gg/GFGCn2mMrE)
