@@ -1,8 +1,8 @@
 # End User License Agreement (EULA)
 
-> **NOTICE — OWNER-APPROVED DISTRIBUTION DRAFT (PENDING QUALIFIED LEGAL COUNSEL)**  
-> *This End User License Agreement reflects the official distribution model confirmed by the developer, RixStonGamer (SHIPHARUJ) (personal, non-commercial gaming use with commercial resale and unauthorized redistribution restrictions). It has NOT been reviewed or approved by an Indian lawyer and remains subject to qualified legal review. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*  
-> **Effective Date**: October 20, 2026 (Draft)  
+> **NOTICE — OWNER REVIEWED AND APPROVED**  
+> *Owner reviewed and approved. This End User License Agreement reflects the official distribution model confirmed and approved by the project owner/operator, RixStonGamer (SHIPHARUJ) (personal, non-commercial gaming use with commercial resale and unauthorized redistribution restrictions). This document has not been reviewed or approved by a qualified lawyer. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*  
+> **Effective Date**: October 20, 2026  
 > **Applies to**: RG Launcher v1.0.0 and subsequent official releases  
 > **Licensor**: RixStonGamer (SHIPHARUJ), operating personally as RG Studios (India)  
 > **Contact**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com) | [https://rg-studios.in/](https://rg-studios.in/)  
@@ -73,8 +73,8 @@ UNDER NO CIRCUMSTANCES SHALL THE LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL
 
 ## 8. Governing Law & Jurisdiction
 
-> **[PENDING QUALIFIED LEGAL COUNSEL — INDIAN LAW REVIEW]**  
-> *This Agreement is issued from India by RixStonGamer (SHIPHARUJ). Formal dispute forums, governing law clauses, and statutory consumer considerations are subject to review by a qualified Indian legal practitioner. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*
+> **[LEGAL COUNSEL NOTICE — INDIAN LAW REVIEW]**  
+> *This Agreement is issued from India by RixStonGamer (SHIPHARUJ). This document has not been reviewed or approved by a qualified lawyer. Formal dispute forums, governing law clauses, and statutory consumer considerations are subject to review by a qualified Indian legal practitioner. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*
 
 ---
 

@@ -1,8 +1,8 @@
 # Privacy Policy
 
-> **NOTICE — DRAFT DOCUMENT PENDING QUALIFIED LEGAL COUNSEL**  
-> *This Privacy Policy is a comprehensive draft prepared specifically for the RG Launcher desktop application. It reflects the verified data handling, local storage, cryptographic practices, and network communications of the actual application codebase, and incorporates confirmed developer identity facts. It contains clearly labeled legal-review notices and must be reviewed, finalized, and approved by a qualified legal professional (recommended: an Indian legal practitioner) before being treated as final. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*  
-> **Effective Date**: October 20, 2026 (Draft)  
+> **NOTICE — OWNER REVIEWED AND APPROVED**  
+> *Owner reviewed and approved. This Privacy Policy reflects the verified data handling, local storage, cryptographic practices, and network communications of the RG Launcher desktop application, and has been accepted by the project owner/operator, RixStonGamer (SHIPHARUJ). This document has not been reviewed or approved by a qualified lawyer. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*  
+> **Effective Date**: October 20, 2026  
 > **Applies to**: RG Launcher v1.0.0 and subsequent official releases  
 > **Developer & Data Operator**: RixStonGamer (SHIPHARUJ), operating personally as RG Studios (India)  
 > **Official Website**: [https://rg-studios.in/](https://rg-studios.in/)  
@@ -139,8 +139,8 @@ RG Launcher is a general-audience utility for Minecraft players. We do not knowi
 
 ## 10. Data Protection & Indian Legal Context
 
-> **[PENDING QUALIFIED LEGAL COUNSEL — INDIAN DATA PRIVACY REVIEW]**  
-> *RG Studios is operated from India by RixStonGamer (SHIPHARUJ). Compliance with applicable Indian data protection frameworks (including the Information Technology Act, 2000, associated SPDI Rules, and the Digital Personal Data Protection Act, 2023) is subject to ongoing review by a qualified Indian legal practitioner. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*
+> **[LEGAL COUNSEL NOTICE — INDIAN DATA PRIVACY REVIEW]**  
+> *RG Studios is operated from India by RixStonGamer (SHIPHARUJ). This document has not been reviewed or approved by a qualified lawyer. Compliance with applicable Indian data protection frameworks (including the Information Technology Act, 2000, associated SPDI Rules, and the Digital Personal Data Protection Act, 2023) is subject to review by a qualified Indian legal practitioner. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*
 
 ---
 

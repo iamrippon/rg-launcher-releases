@@ -131,12 +131,12 @@ RG Launcher is developed by **RixStonGamer** and released, managed, and maintain
 ## 📄 Legal & Documentation Package
 
 Please review our user-facing legal and transparency documentation:
-- 📜 [**Terms of Service / Terms of Use**](TERMS_OF_SERVICE.md) — Acceptable use, user responsibilities, third-party services, updates, warranty disclaimers, and liability terms. *(Draft)*
-- ⚖️ [**End User License Agreement (EULA)**](EULA.md) — Binary distribution license grant, permitted uses, restrictions, and intellectual property ownership. *(Owner-Approved Draft)*
-- 🔒 [**Privacy Policy**](PRIVACY_POLICY.md) — Comprehensive, factual breakdown of local storage, DPAPI token encryption, support tickets, and external network communications. *(Draft)*
+- 📜 [**Terms of Service / Terms of Use**](TERMS_OF_SERVICE.md) — Acceptable use, user responsibilities, third-party services, updates, warranty disclaimers, and liability terms.
+- ⚖️ [**End User License Agreement (EULA)**](EULA.md) — Binary distribution license grant, permitted uses, restrictions, and intellectual property ownership.
+- 🔒 [**Privacy Policy**](PRIVACY_POLICY.md) — Comprehensive, factual breakdown of local storage, DPAPI token encryption, support tickets, and external network communications.
 - 📦 [**Third-Party Software & Notices**](THIRD_PARTY_NOTICES.md) — Full inventory of open-source packages, bundled companion mod notice, and license texts (MIT, ISC, Apache 2.0).
 - 🏷️ [**Disclaimer & Third-Party Relationship Notice**](DISCLAIMER.md) — Formal disclaimers of non-affiliation regarding Minecraft, Mojang, Microsoft, Modrinth, CurseForge, and tunneling providers.
-- 📋 [**Owner Review Checklist**](LEGAL_OWNER_REVIEW.md) — Summary of confirmed facts, EULA approval, and Indian legal review items.
+- 📋 [**Owner Review & Legal Notice**](LEGAL_OWNER_REVIEW.md) — Summary of owner approval, project facts, and notice regarding professional legal counsel.
 
 ---
 

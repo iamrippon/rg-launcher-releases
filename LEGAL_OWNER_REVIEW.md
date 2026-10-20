@@ -1,6 +1,6 @@
-# RG Launcher — Legal & Owner Review Checklist
+# RG Launcher — Owner Review & Legal Notice
 
-> **STATUS: OWNER-APPROVED TERMS (PENDING QUALIFIED LEGAL COUNSEL)**  
+> **STATUS: OWNER REVIEW COMPLETE (NOT LAWYER REVIEWED)**  
 > **Target Release**: RG Launcher v1.0.0  
 > **Repository**: [iamrippon/rg-launcher-releases](https://github.com/iamrippon/rg-launcher-releases)  
 > **Developer & Operator**: RixStonGamer (SHIPHARUJ), operating personally as RG Studios in India  
@@ -8,9 +8,17 @@
 
 ---
 
-## 1. Confirmed Project & Operator Facts
+## 1. Owner Review & Approval Record
 
-The following facts have been formally confirmed by the owner and incorporated into the legal documentation:
+- **Review Status**: **Owner review is complete.**
+- **Owner Acceptance**: **RixStonGamer (SHIPHARUJ)**, as the project creator, developer, and operator of RG Studios, has personally reviewed and approved the wording, technical disclosures, and distribution policies across all RG Launcher legal documents.
+- **Approved Distribution Model**: RixStonGamer has formally approved the freeware EULA model: end users may use RG Launcher for personal, non-commercial gaming, while unauthorized commercial resale and redistribution are strictly restricted, subject to third-party open-source licenses and applicable law.
+
+---
+
+## 2. Confirmed Project & Operator Facts
+
+The following facts are confirmed and incorporated across all documentation:
 - **Project Identity**: RG Launcher is a personal project developed by **RixStonGamer (SHIPHARUJ)** and released, managed, and maintained under **RG Studios**.
 - **Operating Status**: RG Studios is an **unregistered, personally operated studio and project in India**.
 - **No Incorporation**: It is **not** a Private Limited Company, LLP, or other registered corporate entity. It does not possess a corporate registration number.
@@ -23,27 +31,14 @@ The following facts have been formally confirmed by the owner and incorporated i
 
 ---
 
-## 2. Confirmed Distribution Model (EULA Approval)
-
-- **Owner Approval Recorded**: **RixStonGamer (SHIPHARUJ) has formally confirmed that RG Launcher’s proposed freeware EULA is the intended distribution model.**
-- **Approved Terms ([EULA.md](EULA.md))**:
-  - End users are granted a free, revocable license to install and run official binary copies of RG Launcher for **personal, non-commercial gaming** and local instance management.
-  - **Unauthorized commercial resale, distribution for a fee, and distribution of repackaged or modified binaries are strictly prohibited**, subject to governing third-party open-source licenses and applicable law.
-  - All proprietary rights in RG Launcher’s branding, logos, original code, and bundled companion mod are retained by RixStonGamer / RG Studios.
-  - Rights under underlying third-party open-source licenses (MIT, ISC, Apache 2.0) are fully preserved.
-
----
-
-## 3. Items Requiring Professional Legal Review
+## 3. Important Notice Regarding Professional Legal Counsel
 
 > [!IMPORTANT]
-> **No Lawyer Review Claimed**: An Indian lawyer or legal professional has **NOT** reviewed or approved these documents. 
+> **This document and the accompanying policies have NOT been reviewed or approved by a qualified lawyer.**
+> 
+> Owner approval reflects that RixStonGamer has reviewed and accepted the technical accuracy and terms as the project owner. It is not a substitute for professional legal review and does not represent the documents as guaranteed legally compliant or universally enforceable in every jurisdiction.
 
-Before relying on these draft policies as final, legally binding contracts, **consultation with a qualified Indian advocate / legal professional** is recommended to address the following jurisdiction-specific legal questions:
-
-1. **City / State Court Jurisdiction**:
-   - Formally select and specify the appropriate city and state court jurisdiction within India (based on your operational base) for governing law and dispute resolution clauses in [TERMS_OF_SERVICE.md](TERMS_OF_SERVICE.md) and [EULA.md](EULA.md).
-2. **Indian Consumer Protection Compliance**:
-   - Review the warranty disclaimers and liability limitation caps to ensure they conform with non-waivable statutory consumer protections under the **Consumer Protection Act, 2019**.
-3. **Data Protection & IT Regulations**:
-   - Verify that data-handling, support ticketing, and security disclosures in [PRIVACY_POLICY.md](PRIVACY_POLICY.md) satisfy applicable Indian digital data privacy requirements under the **Information Technology Act, 2000** (including SPDI Rules) and the **Digital Personal Data Protection Act, 2023 (DPDP)**.
+End users and stakeholders should note that:
+1. **Jurisdiction & Dispute Forum**: RG Studios is operated from India by RixStonGamer (SHIPHARUJ). Formal court jurisdiction and dispute procedures remain subject to review by a qualified Indian advocate/lawyer, taking into account the Information Technology Act, 2000 and the Consumer Protection Act, 2019.
+2. **Consumer Protections**: Nothing in the documentation excludes or limits non-waivable statutory consumer rights applicable under Indian law or your local consumer jurisdiction.
+3. **Data Protection**: Technical disclosures in [PRIVACY_POLICY.md](PRIVACY_POLICY.md) reflect actual codebase behavior and remain subject to professional review under applicable Indian data privacy regulations (e.g. Information Technology Act, 2000 and the Digital Personal Data Protection Act, 2023).

@@ -1,8 +1,8 @@
 # Terms of Service & Terms of Use
 
-> **NOTICE — DRAFT DOCUMENT PENDING QUALIFIED LEGAL COUNSEL**  
-> *This document is a draft Terms of Service / Terms of Use for the RG Launcher desktop application. It has been prepared based on verified architectural, networking, and security behaviors in the application codebase, and incorporates confirmed developer identity facts. It contains clearly labeled legal-review notices and must be formally reviewed and approved by a qualified legal professional (recommended: an Indian legal practitioner) before being treated as binding legal terms.*  
-> **Effective Date**: October 20, 2026 (Draft)  
+> **NOTICE — OWNER REVIEWED AND APPROVED**  
+> *Owner reviewed and approved. This document reflects the verified architectural, networking, and security behaviors of RG Launcher and has been accepted by the project owner/operator, RixStonGamer (SHIPHARUJ). This document has not been reviewed or approved by a qualified lawyer. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*  
+> **Effective Date**: October 20, 2026  
 > **Applies to**: RG Launcher v1.0.0 and subsequent official releases  
 > **Developer & Operator**: RixStonGamer (SHIPHARUJ), operating personally as RG Studios (India)  
 > **Official Website**: [https://rg-studios.in/](https://rg-studios.in/)  
@@ -122,8 +122,8 @@ To the extent permitted by law, you agree to defend, indemnify, and hold harmles
 
 ## 12. Governing Law, Jurisdiction & Dispute Resolution
 
-> **[PENDING QUALIFIED LEGAL COUNSEL — INDIAN LAW REVIEW]**  
-> *RG Studios is operated from India by RixStonGamer (SHIPHARUJ). The specific city/state court jurisdiction and formal dispute procedures are subject to review by a qualified Indian advocate/lawyer, taking into account the Information Technology Act, 2000 and the Consumer Protection Act, 2019. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*
+> **[LEGAL COUNSEL NOTICE — INDIAN LAW REVIEW]**  
+> *RG Studios is operated from India by RixStonGamer (SHIPHARUJ). This document has not been reviewed or approved by a qualified lawyer. The specific city/state court jurisdiction and formal dispute procedures are subject to review by a qualified Indian advocate/lawyer, taking into account the Information Technology Act, 2000 and the Consumer Protection Act, 2019. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*
 
 1. **Informal Resolution First**: In the event of any controversy, claim, or dispute arising out of or relating to RG Launcher, you agree to first contact us at [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com) and attempt in good faith to resolve the matter informally before initiating formal legal proceedings.
 2. **Severability**: If any provision of these Terms is determined by a court of competent jurisdiction to be invalid, unlawful, or unenforceable, that provision will be severed or modified to the minimum extent necessary, and the remaining provisions will continue in full force and effect.

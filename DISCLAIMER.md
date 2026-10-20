@@ -1,8 +1,8 @@
 # Disclaimer & Third-Party Relationship Notice
 
-> **NOTICE — INFORMATIONAL DISCLOSURE & LEGAL DISCLAIMER**  
-> *This document provides formal legal disclaimers and explains the exact, independent relationship between RG Launcher (a personal project developed by RixStonGamer (SHIPHARUJ) and released under the unregistered studio name RG Studios in India) and third-party companies, trademarks, platforms, and services.*  
-> **Effective Date**: October 20, 2026 (Draft)  
+> **NOTICE — OWNER REVIEWED AND APPROVED**  
+> *Owner reviewed and approved. This document provides formal legal disclaimers and explains the independent relationship between RG Launcher (a personal project developed by RixStonGamer (SHIPHARUJ) and released under RG Studios in India) and third-party companies, trademarks, platforms, and services. This document has not been reviewed or approved by a qualified lawyer. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*  
+> **Effective Date**: October 20, 2026  
 > **Applies to**: RG Launcher v1.0.0 and subsequent official releases  
 > **Developer & Operator**: RixStonGamer (SHIPHARUJ), operating personally as RG Studios (India)  
 > **Contact**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com) | [https://rg-studios.in/](https://rg-studios.in/)  
