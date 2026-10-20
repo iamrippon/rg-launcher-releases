@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/GFGCn2mMrE)
 [![Website](https://img.shields.io/badge/Website-rg--studios.in-00C49F)](https://rg-studios.in/)
 
-Welcome to the official public distribution repository for **RG Launcher**, developed by **RG Studios**.
+Welcome to the official public distribution repository for **RG Launcher**, developed by **RG Studios** (led by Ripon Ghosh).
 
 This repository is dedicated solely to distributing official releases, installers, update feeds, and user-facing documentation for RG Launcher. It does **not** contain the private application source code.
 
@@ -18,7 +18,7 @@ This repository is dedicated solely to distributing official releases, installer
 | :--- | :--- | :--- | :--- | :--- |
 | [**RG-Launcher-Setup-1.0.0.exe**](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.0.0/RG-Launcher-Setup-1.0.0.exe) | Windows 10 / 11 | x64 (64-bit) | 123.18 MB | `d689a14ddbe0d8e1d52509bd0bed22716bde810e1eda2b291d402c99bdc9b706` |
 
-*Release assets including update metadata ([`latest.yml`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.0.0/latest.yml)) and verified hashes ([`checksums.txt`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.0.0/checksums.txt)) are available on the [v1.0.0 Release Page](https://github.com/iamrippon/rg-launcher-releases/releases/tag/v1.0.0).*
+*Release assets including update metadata ([`latest.yml`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.0.0/latest.yml)), differential block map ([`RG Launcher-Setup-1.0.0.exe.blockmap`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.0.0/RG.Launcher-Setup-1.0.0.exe.blockmap)), and verified hashes ([`checksums.txt`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.0.0/checksums.txt)) are available on the [v1.0.0 Release Page](https://github.com/iamrippon/rg-launcher-releases/releases/tag/v1.0.0).*
 
 ---
 
@@ -134,6 +134,7 @@ Please review our user-facing legal and transparency documentation:
 - 🔒 [**Privacy Policy**](PRIVACY_POLICY.md) — Comprehensive, factual breakdown of local storage, DPAPI token encryption, support tickets, and external network communications. *(Draft)*
 - 📦 [**Third-Party Software & Notices**](THIRD_PARTY_NOTICES.md) — Full inventory of open-source packages, bundled companion mod notice, and license texts (MIT, ISC, Apache 2.0).
 - 🏷️ [**Disclaimer & Third-Party Relationship Notice**](DISCLAIMER.md) — Formal disclaimers of non-affiliation regarding Minecraft, Mojang, Microsoft, Modrinth, CurseForge, and tunneling providers.
+- 📋 [**Owner Review Checklist**](LEGAL_OWNER_REVIEW.md) — Summary of open legal/business decisions for the project owner.
 
 ---
 

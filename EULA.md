@@ -1,10 +1,10 @@
 # End User License Agreement (EULA)
 
-> **NOTICE — PROPOSED DRAFT FOR OWNER APPROVAL & QUALIFIED LEGAL REVIEW**  
-> *This End User License Agreement is a proposed draft governing the installation and use of official binary distributions of RG Launcher. It outlines permitted uses, licensing restrictions, and proprietary rights. It is presented for review and approval by RG Studios and must be reviewed by a qualified legal professional before being treated as final.*  
-> **Effective Date**: October 20, 2026  
+> **NOTICE — PROPOSED DRAFT REQUIRING OWNER APPROVAL & QUALIFIED LEGAL REVIEW**  
+> *This End User License Agreement is a proposed draft governing the installation and use of official binary distributions of RG Launcher. It outlines permitted uses, licensing restrictions, and proprietary rights. It is presented for review and approval by RG Studios and must be reviewed by a qualified legal professional before being treated as final. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*  
+> **Effective Date**: October 20, 2026 (Draft)  
 > **Applies to**: RG Launcher v1.0.0 and subsequent official releases  
-> **Licensor**: RG Studios (Lead Developer: Ripon Ghosh)  
+> **Licensor**: RG Studios, led by Ripon Ghosh  
 > **Contact**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com) | [https://rg-studios.in/](https://rg-studios.in/)  
 
 ---
@@ -22,7 +22,7 @@ Subject to your ongoing compliance with this Agreement and the [Terms of Service
 1. **License, Not Sale**: The Software binaries are licensed to you, not sold. You acquire no ownership interest in the Software itself.
 2. **Reservation of Rights**: RG Studios reserves all rights, title, and interest in and to RG Launcher, its original source code, compiled binaries, branding, logos, trademarks, and user interface designs, except for those rights explicitly granted to you under this Agreement or governing open-source licenses.
 3. **No Claim Over Third-Party Assets**: RG Studios makes no claim of ownership over:
-   - The Minecraft game, client jars, assets, or trademarks, which remain the sole intellectual property of **Mojang AB** and **Microsoft Corporation**;
+   - The Minecraft game, client JARs, assets, or trademarks, which remain the sole intellectual property of **Mojang AB** and **Microsoft Corporation**;
    - Third-party mod files, resource packs, shaders, or modpacks authored by community creators;
    - Open-source libraries and frameworks incorporated into the Software, which remain subject to their respective open-source licenses (see [Third-Party Notices](THIRD_PARTY_NOTICES.md)).
 
@@ -73,7 +73,8 @@ UNDER NO CIRCUMSTANCES SHALL RG STUDIOS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, 
 
 ## 8. Governing Law
 
-> *[Jurisdiction Placeholder: The governing law and jurisdiction applicable to this Agreement are subject to formal confirmation by RG Studios and qualified legal review.]*
+> **[OWNER REVIEW REQUIRED — JURISDICTION & GOVERNING LAW]**  
+> *The governing law and jurisdiction applicable to this Agreement are subject to formal confirmation by the owner and qualified legal review. See [LEGAL_OWNER_REVIEW.md](LEGAL_OWNER_REVIEW.md).*
 
 ---
 
