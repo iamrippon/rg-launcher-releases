@@ -1,6 +1,6 @@
 # RG Launcher — Official Public Releases
 
-[![Release](https://img.shields.io/badge/Release-v1.1.0-blue.svg)](https://github.com/iamrippon/rg-launcher-releases/releases/tag/v1.1.0)
+[![Release](https://img.shields.io/badge/Release-v1.1.1-blue.svg)](https://github.com/iamrippon/rg-launcher-releases/releases/tag/v1.1.1)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-brightgreen.svg)](https://github.com/iamrippon/rg-launcher-releases)
 [![Status](https://img.shields.io/badge/Build-Stable-success.svg)](https://github.com/iamrippon/rg-launcher-releases)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/GFGCn2mMrE)
@@ -13,17 +13,17 @@ Welcome to the official public distribution repository for **RG Launcher**.
 > [!NOTE]
 > **RG Launcher is an independent Minecraft launcher and is NOT an official Minecraft product. It is NOT approved by or associated with Mojang or Microsoft.**
 
-This repository is dedicated solely to distributing official releases, installers, update feeds, and user-facing documentation for RG Launcher.
+This repository is dedicated solely to distributing official releases, installers, update feeds, and user-facing documentation for RG Launcher. It does **not** contain the private application source code.
 
 ---
 
-## 🚀 Download RG Launcher (Latest: v1.1.0)
+## 🚀 Download RG Launcher (Latest: v1.1.1)
 
 | Installer | Operating System | Architecture | Size | SHA-256 Checksum |
 | :--- | :--- | :--- | :--- | :--- |
-| [**RG-Launcher-Setup-1.1.0.exe**](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.1.0/RG-Launcher-Setup-1.1.0.exe) | Windows 10 / 11 | x64 (64-bit) | 123.19 MB | `9E780101BA58893B78C4978021939DF59D2A93430200B42C10BCE3293F1FDDFB` |
+| [**RG-Launcher-Setup-1.1.1.exe**](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.1.1/RG-Launcher-Setup-1.1.1.exe) | Windows 10 / 11 | x64 (64-bit) | 119.84 MB | `2e338c4717fd7d86efbe99d8fbd32916b8a22d222ff442c3cccaf87cb11bd5e9` |
 
-*Release assets including update metadata ([latest.yml](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.1.0/latest.yml)), differential block map ([RG-Launcher-Setup-1.1.0.exe.blockmap](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.1.0/RG-Launcher-Setup-1.1.0.exe.blockmap)), and verified hashes ([checksums.txt](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.1.0/checksums.txt)) are available on the [v1.1.0 Release Page](https://github.com/iamrippon/rg-launcher-releases/releases/tag/v1.1.0).*
+*Release assets including update metadata ([`latest.yml`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.1.1/latest.yml)), differential block map ([`RG-Launcher-Setup-1.1.1.exe.blockmap`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.1.1/RG-Launcher-Setup-1.1.1.exe.blockmap)), and verified hashes ([`checksums.txt`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.1.1/checksums.txt)) are available on the [v1.1.1 Release Page](https://github.com/iamrippon/rg-launcher-releases/releases/tag/v1.1.1).*
 
 ---
 
@@ -31,18 +31,16 @@ This repository is dedicated solely to distributing official releases, installer
 
 RG Launcher is a modern, lightweight, and high-performance Minecraft launcher built for players, modders, and server administrators.
 
-- **Dynamic Modpack Version Selection**: Browse all Minecraft versions supported by a modpack, choose your preferred target version and mod loader, and pair the matching release file automatically.
-- **Unified Content Browser**: Dedicated, high-speed browsing and installation for **Mods**, **Resource Packs**, and **Shaders** across **Modrinth** and **CurseForge**.
-- **Target Instance Control Bar**: Sticky header displaying your active profile, targeted Minecraft version, active loader, and physical game directory with quick instance switching.
-- **Multi-Loader Support**: Create, manage, and launch instances for **Vanilla**, **Fabric**, **Quilt**, **NeoForge**, and **Minecraft Forge**.
-- **Local Server Hub**: Download, configure, and operate dedicated local Minecraft server instances with background process guards that safely stop servers upon exit to prevent world corruption.
-- **Custom Profile Workspace**: Tailor RAM allocation (minimum and maximum heap), custom Java runtime paths, JVM arguments, and directory isolation per profile.
-- **Safe Auto-Updater**: Built-in update checking that queries this public distribution repository with active-game guards that prevent updates while Minecraft or local servers are running.
-- **Integrated Diagnostics & Logs**: View live launcher and game logs, inspect crash reports, and export diagnostics safely.
-- **Polished Modern UI**: Dark glassmorphic obsidian interface with responsive layout, dynamic background art, and quick-launch controls.
+- 🚀 **Multi-Loader Support**: Create, manage, and launch instances for **Official Vanilla**, **Fabric**, and **Custom JARs** with full directory isolation.
+- 🧩 **Integrated Mod & Modpack Browser**: Dedicated browsing and installation for **Mods**, **Resource Packs**, and **Shaders** across **Modrinth** and **CurseForge** without leaving the launcher.
+- 🎨 **Responsive Maximized Home Screen**: Fluid, full-width design that adapts automatically across laptop, desktop, QHD, and ultrawide displays with right-aligned quick navigation and a dedicated bottom play panel.
+- ⚙️ **Smart RAM Management**: Real physical and available RAM detection from Windows OS with automatic settings inheritance during profile creation.
+- 🖥️ **Local Server Hub**: Download, configure, and operate dedicated local Minecraft server instances directly on your machine with safe shutdown guards.
+- 🔄 **Safe Auto-Updater**: Built-in update checking that queries this public distribution repository with active-game guards that prevent updates while Minecraft or local servers are running.
+- 🩺 **Integrated Diagnostics & Logs**: View live launcher and game logs, inspect crash reports, and export diagnostics safely.
 
 > [!IMPORTANT]
-> **Authentication Notice**: A legitimate **Microsoft Account** with Minecraft: Java Edition ownership is required to sign in and play. Credentials are securely encrypted locally using Windows DPAPI safe storage.
+> **Authentication Notice**: A legitimate **Microsoft Account** with Minecraft: Java Edition ownership is required to sign in and play. Offline testing profiles are available for local development.
 
 ---
 
@@ -68,12 +66,12 @@ RG Launcher is a modern, lightweight, and high-performance Minecraft launcher bu
 
 ## 📥 Installation Guide
 
-1. **Download**: Click [**RG-Launcher-Setup-1.1.0.exe**](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.1.0/RG-Launcher-Setup-1.1.0.exe) above.
+1. **Download**: Click [**RG-Launcher-Setup-1.1.1.exe**](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.1.1/RG-Launcher-Setup-1.1.1.exe) above.
 2. **Launch Setup**: Double-click the downloaded executable.
    - *If Windows Defender SmartScreen displays an informational prompt, click **"More info"** and then **"Run anyway"**.*
 3. **Choose Install Directory**: Follow the setup wizard instructions. By default, RG Launcher installs to your local user application folder and creates desktop and Start Menu shortcuts.
 4. **Sign In**: Launch RG Launcher and click **Login with Microsoft**. Complete the sign-in with your Microsoft account that owns Minecraft: Java Edition.
-5. **Create a Profile & Play**: Click **Create Profile**, select your desired Minecraft version (e.g. 1.21.x) and loader (Vanilla, Fabric, Forge, etc.), allocate RAM, and click **Play**!
+5. **Create a Profile & Play**: Click **Create Profile**, select your desired Minecraft version (e.g. 1.21.x) and loader (Vanilla, Fabric, etc.), and click **Play**!
 
 ---
 
@@ -100,7 +98,7 @@ If you wish to uninstall RG Launcher:
 
 ---
 
-## 📋 Diagnostics & Troubleshooting
+## 🛠️ Diagnostics & Troubleshooting
 
 If you encounter an issue or game crash:
 1. Open **Settings** or **Logs** in the launcher navigation sidebar.
