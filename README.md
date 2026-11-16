@@ -21,7 +21,7 @@ This repository is dedicated solely to distributing official releases, installer
 
 | Installer | Operating System | Architecture | Size | SHA-256 Checksum |
 | :--- | :--- | :--- | :--- | :--- |
-| [**RG-Launcher-Setup-1.2.0.exe**](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.2.0/RG-Launcher-Setup-1.2.0.exe) | Windows 10 / 11 | x64 (64-bit) | 119.91 MB (125,734,697 bytes) | `1A82EA70A647CF5BC48CA2E37D3CB03DB79FBEEC7EC58C1B6673979DB721F3C6` |
+| [**RG-Launcher-Setup-1.2.0.exe**](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.2.0/RG-Launcher-Setup-1.2.0.exe) | Windows 10 / 11 | x64 (64-bit) | 119.91 MB (125,732,064 bytes) | `547A8D353D9AC4459CE45BD7CC4C28278AE0683B5EC7157F9A3DB186918753D0` |
 
 *Release assets including update metadata ([`latest.yml`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.2.0/latest.yml)), differential block map ([`RG-Launcher-Setup-1.2.0.exe.blockmap`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.2.0/RG-Launcher-Setup-1.2.0.exe.blockmap)), and verified hashes ([`SHA256SUMS.txt`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.2.0/SHA256SUMS.txt)) are available on the [v1.2.0 Release Page](https://github.com/iamrippon/rg-launcher-releases/releases/tag/v1.2.0).*
 
@@ -33,7 +33,7 @@ RG Launcher v1.2.0 brings major enhancements in reliability, stability, diagnost
 
 - 🛠️ **Intelligent Mod Compatibility Checker & Auto-Fix 2.0**: Detects missing dependencies, duplicate files, version mismatches, and mod conflicts. Resolves them with 1-click automated repairs, automatic dependency downloads from Modrinth/CurseForge, and rollback safety backups.
 - ☕ **Automatic Java Runtime Detection & Dependency Auto-Installer**: Eliminates manual Java installation. Dynamically detects required Java major versions (Java 8, 17, 21, and 25 for Minecraft 26.x), automatically downloads lightweight Adoptium JRE packages (~38–47 MB) with SHA-256 validation, and handles pre-flight launch checks.
-- 🌐 **Servers Hub Redesign & Official StonSMP Integration**: Manage your multiplayer servers with real-time Server List Ping (SLP) status, latency in milliseconds, player counts, MOTD preview, and direct-connect launching. Plus, enjoy the dedicated StonSMP experience with whitelist application workflow and announcements.
+- 🌐 **User-Managed Minecraft Server Manager**: Manage your personal multiplayer servers with real-time Server List Ping (SLP) status, latency in milliseconds, player counts, MOTD preview, DNS SRV resolution, and direct-connect launching. Supports both Java Edition and Bedrock Edition with zero sponsored, featured, or default listings.
 - 💾 **Standard ZIP Backup Center**: Backups now use standard `.zip` format (e.g. `Survival-Backup.zip`) with internal `backup_manifest.json` and SHA-256 integrity verification, openable with Windows File Explorer, 7-Zip, or WinRAR, along with support for custom backup storage folders and backward compatibility for `.rgbackup`.
 - 🩺 **Intelligent Crash Log Analyzer**: Automatically parses crash reports in `crash-reports/` and `logs/latest.log`, detects root causes (OutOfMemoryError, Java version mismatch, missing dependencies, Mixin conflicts), and explains solutions in plain English with 1-click fixes.
 - 📥 **Download Manager 2.0**: Active queue with 3 concurrent network requests, chunked HTTP range resume support via `.rgpart` staging files, live speed/ETA calculation, and cryptographic hash verification.
