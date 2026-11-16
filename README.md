@@ -1,6 +1,6 @@
 # RG Launcher — Official Public Releases
 
-[![Release](https://img.shields.io/badge/Release-v1.1.1-blue.svg)](https://github.com/iamrippon/rg-launcher-releases/releases/tag/v1.1.1)
+[![Release](https://img.shields.io/badge/Release-v1.2.0-blue.svg)](https://github.com/iamrippon/rg-launcher-releases/releases/tag/v1.2.0)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-brightgreen.svg)](https://github.com/iamrippon/rg-launcher-releases)
 [![Status](https://img.shields.io/badge/Build-Stable-success.svg)](https://github.com/iamrippon/rg-launcher-releases)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/GFGCn2mMrE)
@@ -17,30 +17,27 @@ This repository is dedicated solely to distributing official releases, installer
 
 ---
 
-## 🚀 Download RG Launcher (Latest: v1.1.1)
+## 🚀 Download RG Launcher (Latest: v1.2.0)
 
 | Installer | Operating System | Architecture | Size | SHA-256 Checksum |
 | :--- | :--- | :--- | :--- | :--- |
-| [**RG-Launcher-Setup-1.1.1.exe**](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.1.1/RG-Launcher-Setup-1.1.1.exe) | Windows 10 / 11 | x64 (64-bit) | 119.84 MB | `2e338c4717fd7d86efbe99d8fbd32916b8a22d222ff442c3cccaf87cb11bd5e9` |
+| [**RG-Launcher-Setup-1.2.0.exe**](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.2.0/RG-Launcher-Setup-1.2.0.exe) | Windows 10 / 11 | x64 (64-bit) | 119.91 MB (125,734,697 bytes) | `1A82EA70A647CF5BC48CA2E37D3CB03DB79FBEEC7EC58C1B6673979DB721F3C6` |
 
-*Release assets including update metadata ([`latest.yml`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.1.1/latest.yml)), differential block map ([`RG-Launcher-Setup-1.1.1.exe.blockmap`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.1.1/RG-Launcher-Setup-1.1.1.exe.blockmap)), and verified hashes ([`checksums.txt`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.1.1/checksums.txt)) are available on the [v1.1.1 Release Page](https://github.com/iamrippon/rg-launcher-releases/releases/tag/v1.1.1).*
+*Release assets including update metadata ([`latest.yml`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.2.0/latest.yml)), differential block map ([`RG-Launcher-Setup-1.2.0.exe.blockmap`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.2.0/RG-Launcher-Setup-1.2.0.exe.blockmap)), and verified hashes ([`SHA256SUMS.txt`](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.2.0/SHA256SUMS.txt)) are available on the [v1.2.0 Release Page](https://github.com/iamrippon/rg-launcher-releases/releases/tag/v1.2.0).*
 
 ---
 
-## ✨ Overview & Features
+## ✨ What's New in v1.2.0
 
-RG Launcher is a modern, lightweight, and high-performance Minecraft launcher built for players, modders, and server administrators.
+RG Launcher v1.2.0 brings major enhancements in reliability, stability, diagnostic tools, and player experience:
 
-- 🚀 **Multi-Loader Support**: Create, manage, and launch instances for **Official Vanilla**, **Fabric**, and **Custom JARs** with full directory isolation.
-- 🧩 **Integrated Mod & Modpack Browser**: Dedicated browsing and installation for **Mods**, **Resource Packs**, and **Shaders** across **Modrinth** and **CurseForge** without leaving the launcher.
-- 🎨 **Responsive Maximized Home Screen**: Fluid, full-width design that adapts automatically across laptop, desktop, QHD, and ultrawide displays with right-aligned quick navigation and a dedicated bottom play panel.
-- ⚙️ **Smart RAM Management**: Real physical and available RAM detection from Windows OS with automatic settings inheritance during profile creation.
-- 🖥️ **Local Server Hub**: Download, configure, and operate dedicated local Minecraft server instances directly on your machine with safe shutdown guards.
-- 🔄 **Safe Auto-Updater**: Built-in update checking that queries this public distribution repository with active-game guards that prevent updates while Minecraft or local servers are running.
-- 🩺 **Integrated Diagnostics & Logs**: View live launcher and game logs, inspect crash reports, and export diagnostics safely.
-
-> [!IMPORTANT]
-> **Authentication Notice**: A legitimate **Microsoft Account** with Minecraft: Java Edition ownership is required to sign in and play. Offline testing profiles are available for local development.
+- 🛠️ **Intelligent Mod Compatibility Checker & Auto-Fix 2.0**: Detects missing dependencies, duplicate files, version mismatches, and mod conflicts. Resolves them with 1-click automated repairs, automatic dependency downloads from Modrinth/CurseForge, and rollback safety backups.
+- ☕ **Automatic Java Runtime Detection & Dependency Auto-Installer**: Eliminates manual Java installation. Dynamically detects required Java major versions (Java 8, 17, 21, and 25 for Minecraft 26.x), automatically downloads lightweight Adoptium JRE packages (~38–47 MB) with SHA-256 validation, and handles pre-flight launch checks.
+- 🌐 **Servers Hub Redesign & Official StonSMP Integration**: Manage your multiplayer servers with real-time Server List Ping (SLP) status, latency in milliseconds, player counts, MOTD preview, and direct-connect launching. Plus, enjoy the dedicated StonSMP experience with whitelist application workflow and announcements.
+- 💾 **Standard ZIP Backup Center**: Backups now use standard `.zip` format (e.g. `Survival-Backup.zip`) with internal `backup_manifest.json` and SHA-256 integrity verification, openable with Windows File Explorer, 7-Zip, or WinRAR, along with support for custom backup storage folders and backward compatibility for `.rgbackup`.
+- 🩺 **Intelligent Crash Log Analyzer**: Automatically parses crash reports in `crash-reports/` and `logs/latest.log`, detects root causes (OutOfMemoryError, Java version mismatch, missing dependencies, Mixin conflicts), and explains solutions in plain English with 1-click fixes.
+- 📥 **Download Manager 2.0**: Active queue with 3 concurrent network requests, chunked HTTP range resume support via `.rgpart` staging files, live speed/ETA calculation, and cryptographic hash verification.
+- 🎮 **Better Player Experience**: Visual screenshot lightbox gallery, singleplayer World Manager with NBT metadata inspection and 1-click world zip backups, and local playtime tracker.
 
 ---
 
@@ -60,18 +57,18 @@ RG Launcher is a modern, lightweight, and high-performance Minecraft launcher bu
 - **Memory (RAM)**: 8 GB or higher (16 GB for heavy modpacks)
 - **Graphics**: NVIDIA GeForce 900 series / AMD Radeon RX 400 series or newer with updated drivers
 - **Storage**: Solid State Drive (SSD) with 10 GB+ free disk space
-- **Java**: Java 17 or Java 21 (RG Launcher can detect and configure installed Java runtimes)
+- **Java**: Automatic installation handled by RG Launcher (Java 8, 17, 21, and 25 supported)
 
 ---
 
 ## 📥 Installation Guide
 
-1. **Download**: Click [**RG-Launcher-Setup-1.1.1.exe**](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.1.1/RG-Launcher-Setup-1.1.1.exe) above.
+1. **Download**: Click [**RG-Launcher-Setup-1.2.0.exe**](https://github.com/iamrippon/rg-launcher-releases/releases/download/v1.2.0/RG-Launcher-Setup-1.2.0.exe) above.
 2. **Launch Setup**: Double-click the downloaded executable.
    - *If Windows Defender SmartScreen displays an informational prompt, click **"More info"** and then **"Run anyway"**.*
 3. **Choose Install Directory**: Follow the setup wizard instructions. By default, RG Launcher installs to your local user application folder and creates desktop and Start Menu shortcuts.
 4. **Sign In**: Launch RG Launcher and click **Login with Microsoft**. Complete the sign-in with your Microsoft account that owns Minecraft: Java Edition.
-5. **Create a Profile & Play**: Click **Create Profile**, select your desired Minecraft version (e.g. 1.21.x) and loader (Vanilla, Fabric, etc.), and click **Play**!
+5. **Create a Profile & Play**: Click **Create Profile**, select your desired Minecraft version (e.g. 1.21.4) and loader (Vanilla, Fabric, etc.), and click **Play**! Missing Java runtimes will be automatically installed if needed.
 
 ---
 
@@ -80,7 +77,7 @@ RG Launcher is a modern, lightweight, and high-performance Minecraft launcher bu
 RG Launcher includes built-in update verification connected directly to this repository:
 - **Automatic Background Check**: The launcher checks for newer stable releases upon startup.
 - **Manual Check**: You can manually check for updates at any time by navigating to **Settings → Updates** or clicking the version badge in **About**.
-- **Safe Installation**: If an update is downloaded, the launcher prompts you to restart. Installation is safely blocked if Minecraft or any local server is actively running.
+- **Safe Installation**: If an update is downloaded, the launcher prompts you to restart. Installation is safely blocked if Minecraft is actively running.
 
 ---
 
@@ -98,41 +95,13 @@ If you wish to uninstall RG Launcher:
 
 ---
 
-## 🛠️ Diagnostics & Troubleshooting
+## 📜 Legal & Disclaimers
 
-If you encounter an issue or game crash:
-1. Open **Settings** or **Logs** in the launcher navigation sidebar.
-2. Review the game crash output or launcher log.
-3. To share a log for assistance:
-   - Copy the log content.
-   - **Sanitize Personal Information**: Before sharing logs, redact your Windows username, local file paths, personal IP addresses, or any other sensitive details.
-4. Join our community Discord or reach out via official support channels below.
+- **Minecraft** is a registered trademark of **Mojang Synergies AB** / **Microsoft Corporation**.
+- **RG Launcher** and **RG Studios** are not affiliated with, endorsed by, or sponsored by Mojang Studios or Microsoft.
+- All modding libraries, loaders (Fabric, Forge, NeoForge, Quilt), and API integrations (Modrinth, CurseForge) belong to their respective creators and organizations.
+- For full licensing and terms, please review [LICENSE.md](LICENSE.md), [TERMS.md](TERMS.md), and [PRIVACY_POLICY.md](PRIVACY_POLICY.md).
 
 ---
 
-## 💬 Community & Official Support
-
-RG Launcher is developed by **RixStonGamer** and released, managed, and maintained under **RG Studios** in India.
-
-- 🌐 **Official Website**: [https://rg-studios.in/](https://rg-studios.in/)
-- 💬 **Discord Community**: [https://discord.gg/GFGCn2mMrE](https://discord.gg/GFGCn2mMrE)
-- ✉️ **Support Email**: [in.rgstudios@gmail.com](mailto:in.rgstudios@gmail.com)
-
----
-
-## 📄 Legal & Documentation Package
-
-Please review our user-facing legal and transparency documentation:
-- 📜 [**Terms of Service & Use**](TERMS.md) — Acceptable use rules, service conditions, non-affiliation disclaimers, warranty disclaimers, and limitation of liability.
-- ⚖️ [**Software License & End User Agreement**](LICENSE.md) — Freeware binary license grant, personal non-commercial gaming permissions, and reservation of rights.
-- 🔒 [**Privacy Policy**](PRIVACY_POLICY.md) — Factual breakdown of local storage, DPAPI token encryption, voluntary support tickets, zero telemetry, and network transparency.
-- 📦 [**Third-Party Software & Open-Source Notices**](THIRD_PARTY_NOTICES.md) — Full inventory of bundled open-source components and complete license texts.
-
----
-
-## ⚠️ Legal Disclaimers
-
-- **Minecraft**: **NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.** Minecraft is a registered trademark of **Mojang AB** and **Microsoft Corporation**.
-- **CurseForge**: CurseForge is a registered trademark of **Overwolf Ltd**. Neither RixStonGamer nor RG Studios is affiliated with or endorsed by Overwolf Ltd.
-- **Modrinth**: Modrinth is a trademark of **Rinth, Inc**. Neither RixStonGamer nor RG Studios is affiliated with or endorsed by Rinth, Inc.
-- All other trademarks, trade names, and service marks are the property of their respective owners.
+© 2026 RG Studios. All rights reserved.
